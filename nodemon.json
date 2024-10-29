@@ -1,0 +1,10 @@
+{
+  "watch": ["*.ts"],
+  "ignore": ["node_modules", "client"],
+  "ext": "ts,json",
+  "exec": "ts-node api/index.ts",
+  "env": {
+    "NODE_ENV": "development",
+    "PORT": 3000
+  }
+}
