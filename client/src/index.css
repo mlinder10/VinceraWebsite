@@ -1,0 +1,59 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --accent: #ffd700;
+  --accent-dark: #ffa000;
+  --primary: #000;
+  --secondary: #777;
+  --background: #f7f7f7;
+  --background-secondary: #eee;
+  --border: #ccc;
+
+  --semi-bold: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary: #fff;
+    --secondary: #aaa;
+    --background: #222;
+    --background-secondary: #333;
+    --border: #555;
+  }
+}
+
+html {
+  background-color: var(--background);
+}
+
+a {
+  color: var(--accent);
+  transition: 0.3s ease-in-out;
+}
+a:hover,
+a:focus {
+  color: var(--accent-dark);
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: var(--accent);
+  transition: 0.3s ease-in-out;
+}
+button:hover,
+button:focus {
+  color: var(--accent-dark);
+}
+button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
