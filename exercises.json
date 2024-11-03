@@ -2,7 +2,7 @@
   {
     "id": "0",
     "name": "Bench Press",
-    "description": "Heavy compound exercise that targets the pectorals, front deltoids, and triceps. Great exercise for building size and strength in the chest.",
+    "description": "Heavy compound exercise that targets the chest (pectorals, front deltoids, and triceps). Great exercise for building size and strength.",
     "directions": [
       "Lay on a flat bench with a slight arch in your back.",
       "Grab the barbell so that your pinky fingers are touching or near the rings of the barbell.",
@@ -1488,7 +1488,7 @@
     "primaryGroup": "quadriceps",
     "secondaryGroups": ["hamstrings", "glutes", "adductors"],
     "exerciseType": "compound",
-    "equipmentType": "smith machine",
+    "equipmentType": "machine",
     "repsLow": 6,
     "repsHigh": 15
   },
@@ -1504,7 +1504,7 @@
     "primaryGroup": "gastrocnemius",
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
-    "equipmentType": "smith machine",
+    "equipmentType": "machine",
     "repsLow": 12,
     "repsHigh": 25
   },
@@ -1520,7 +1520,7 @@
     "primaryGroup": "pectorals",
     "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
-    "equipmentType": "smith machine",
+    "equipmentType": "machine",
     "repsLow": 6,
     "repsHigh": 12
   },
@@ -1536,7 +1536,7 @@
     "primaryGroup": "pectorals",
     "secondaryGroups": ["triceps", "front deltoids"],
     "exerciseType": "compound",
-    "equipmentType": "smith machine",
+    "equipmentType": "machine",
     "repsLow": 6,
     "repsHigh": 15
   },
@@ -1552,7 +1552,7 @@
     "primaryGroup": "front deltoids",
     "secondaryGroups": ["side deltoids", "trapezius", "pectorals", "triceps"],
     "exerciseType": "compound",
-    "equipmentType": "smith machine",
+    "equipmentType": "machine",
     "repsLow": 8,
     "repsHigh": 12
   },
