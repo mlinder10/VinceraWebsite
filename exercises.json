@@ -710,7 +710,7 @@
   },
   {
     "id": "43",
-    "name": "Bayesian cable curl",
+    "name": "Bayesian Cable Curl",
     "description": "Light isolation exercise that targets the biceps. Great for building size in the arms.",
     "directions": [],
     "cues": [],
@@ -1946,7 +1946,8 @@
     "equipmentType": "bodyweight",
     "repsLow": 10,
     "repsHigh": 15
-  }, {
+  },
+  {
     "id": "119",
     "name": "Dumbbell Chest Press",
     "description": "",
@@ -1961,7 +1962,8 @@
     "equipmentType": "dumbbell",
     "repsLow": 8,
     "repsHigh": 12
-  }, {
+  },
+  {
     "id": "120",
     "name": "Incline Dumbbell Tricep Extension",
     "description": "",
@@ -1976,7 +1978,8 @@
     "equipmentType": "dumbbell",
     "repsLow": 8,
     "repsHigh": 12
-  }, {
+  },
+  {
     "id": "121",
     "name": "Dumbbell Side Curl",
     "description": "",
@@ -1991,7 +1994,8 @@
     "equipmentType": "dumbbell",
     "repsLow": 8,
     "repsHigh": 12
-  }, {
+  },
+  {
     "id": "122",
     "name": "Split Squat",
     "description": "",
@@ -2002,7 +2006,8 @@
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
     "secondaryGroups": ["glutes", "adductors"]
-  }, {
+  },
+  {
     "id": "123",
     "name": "Rope Overhead Extension",
     "description": "",
@@ -2013,7 +2018,8 @@
     "bodyPart": "arms",
     "primaryGroup": "triceps",
     "secondaryGroups": ["forearms"]
-  }, {
+  },
+  {
     "id": "124",
     "name": "Cable Rope Curls",
     "description": "",
@@ -2024,7 +2030,8 @@
     "bodyPart": "arms",
     "primaryGroup": "biceps",
     "secondaryGroups": ["forearms"]
-  }, {
+  },
+  {
     "id": "125",
     "name": "Hanging Leg Raises",
     "description": "",
@@ -2035,7 +2042,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "126",
     "name": "Hanging Knee Raise",
     "description": "",
@@ -2046,7 +2054,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "127",
     "name": "Candlestick",
     "description": "",
@@ -2057,7 +2066,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "128",
     "name": "Line Leg Raise",
     "description": "",
@@ -2068,7 +2078,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "129",
     "name": "Russian Twist",
     "description": "",
@@ -2079,7 +2090,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "130",
     "name": "Crunch",
     "description": "",
@@ -2090,7 +2102,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "131",
     "name": "Cable Hip Abduction",
     "description": "",
@@ -2101,7 +2114,8 @@
     "bodyPart": "",
     "primaryGroup": "",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "132",
     "name": "Cable Hip Adduction",
     "description": "",
@@ -2112,7 +2126,8 @@
     "bodyPart": "",
     "primaryGroup": "",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "133",
     "name": "Machine Bicep Curl",
     "description": "",
@@ -2123,7 +2138,8 @@
     "bodyPart": "arms",
     "primaryGroup": "biceps",
     "secondaryGroups": ["forearms"]
-  } , {
+  },
+  {
     "id": "134",
     "name": "Bodyweight Row",
     "description": "",
@@ -2134,7 +2150,8 @@
     "bodyPart": "back",
     "primaryGroup": "trapezius",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "135",
     "name": "Cable Wrist Curls",
     "description": "",
@@ -2145,7 +2162,8 @@
     "bodyPart": "arms",
     "primaryGroup": "forearms",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "136",
     "name": "Cable Reverse Wrist Curls",
     "description": "",
@@ -2156,7 +2174,8 @@
     "bodyPart": "arms",
     "primaryGroup": "forearms",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "137",
     "name": "Cable Crunch",
     "description": "",
@@ -2167,7 +2186,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "138",
     "name": "Cable Bar Raise",
     "description": "",
@@ -2178,7 +2198,8 @@
     "bodyPart": "shoulders",
     "primaryGroup": "side deltoids",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "139",
     "name": "Single Arm Cable Pushdown",
     "description": "",
@@ -2189,7 +2210,8 @@
     "bodyPart": "arms",
     "primaryGroup": "triceps",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "140",
     "name": "Dumbbell Wrist Curl",
     "description": "",
@@ -2200,7 +2222,8 @@
     "bodyPart": "arms",
     "primaryGroup": "forearms",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "141",
     "name": "Reverse Dumbbell Wrist Curl",
     "description": "",
@@ -2211,7 +2234,8 @@
     "bodyPart": "arms",
     "primaryGroup": "forearms",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "142",
     "name": "Goblet Squat",
     "description": "",
@@ -2222,7 +2246,8 @@
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "143",
     "name": "Lunge",
     "description": "",
@@ -2233,7 +2258,8 @@
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "144",
     "name": "Dumbbell Step Ups",
     "description": "",
@@ -2244,7 +2270,8 @@
     "bodyPart": "legs",
     "primaryGroup": "",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "145",
     "name": "Dumbbell Upright Row",
     "description": "",
@@ -2255,7 +2282,8 @@
     "bodyPart": "legs",
     "primaryGroup": "",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "146",
     "name": "Shrugs",
     "description": "",
@@ -2266,7 +2294,8 @@
     "bodyPart": "back",
     "primaryGroup": "",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "147",
     "name": "Meadows Row",
     "description": "",
@@ -2277,7 +2306,8 @@
     "bodyPart": "back",
     "primaryGroup": "trapezius",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "148",
     "name": "Single Arm Preacher Curl",
     "description": "",
@@ -2288,7 +2318,8 @@
     "bodyPart": "arms",
     "primaryGroup": "biceps",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "149",
     "name": "Muscle Up",
     "description": "",
@@ -2299,7 +2330,8 @@
     "bodyPart": "back",
     "primaryGroup": "trapezius",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "150",
     "name": "Torso rotation",
     "description": "",
@@ -2310,7 +2342,8 @@
     "bodyPart": "abs",
     "primaryGroup": "abs",
     "secondaryGroups": []
-  } , {
+  },
+  {
     "id": "151",
     "name": "Treadmill",
     "description": "",
@@ -2321,7 +2354,8 @@
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
     "secondaryGroups": []
-  }, {
+  },
+  {
     "id": "152",
     "name": "Bike",
     "description": "",
