@@ -179,9 +179,22 @@
   {
     "id": "6",
     "name": "Dumbbell Chest Fly",
-    "description": "Light isolation exercise that targets the pectorals. Good for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the chest muscles by moving the arms in a wide arc. Great for developing chest width and mind-muscle connection.",
+    "directions": [
+      "Lie on a flat bench with a dumbbell in each hand",
+      "Start with arms extended above chest, slight bend in elbows",
+      "Lower the weights out to sides in a wide arc",
+      "Keep the same slight bend in elbows throughout movement",
+      "When you feel a stretch in your chest, reverse the motion",
+      "Bring the weights back up in an arc motion until they meet above your chest"
+    ],
+    "cues": [
+      "Maintain slight bend in elbows throughout",
+      "Focus on using chest muscles, not arms",
+      "Keep shoulders down and back",
+      "Control the weight throughout the movement",
+      "Don't let weights go below shoulder level"
+    ],
     "image": "dumbbell-fly",
     "videoId": "QAhb7fTnKTs",
     "bodyPart": "chest",
@@ -197,9 +210,22 @@
   {
     "id": "7",
     "name": "Incline Dumbbell Chest Fly",
-    "description": "Light isolation exercise that targets the upper pectorals. Good for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the upper chest muscles. Excellent for developing upper chest definition and improving mind-muscle connection.",
+    "directions": [
+      "Lie on an incline bench (15-30 degrees) with a dumbbell in each hand",
+      "Start with arms extended above chest, slight bend in elbows",
+      "Lower the weights out to sides in a wide arc",
+      "Keep the same slight bend in elbows throughout movement",
+      "When you feel a stretch in your chest, reverse the motion",
+      "Bring the weights back up in an arc motion until they meet above your chest"
+    ],
+    "cues": [
+      "Maintain slight bend in elbows throughout",
+      "Focus on using upper chest muscles",
+      "Keep shoulders down and back",
+      "Control the weight throughout the movement",
+      "Don't let weights go below shoulder level"
+    ],
     "image": "incline-dumbbell-fly",
     "videoId": "lres6g6UsCk",
     "bodyPart": "chest",
@@ -215,9 +241,22 @@
   {
     "id": "8",
     "name": "Decline Dumbbell Chest Fly",
-    "description": "Light isolation exercise that targets the lower pectorals. Good for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the lower chest muscles. Great for developing lower chest definition and improving mind-muscle connection.",
+    "directions": [
+      "Lie on a decline bench with a dumbbell in each hand",
+      "Start with arms extended above chest, slight bend in elbows",
+      "Lower the weights out to sides in a wide arc",
+      "Keep the same slight bend in elbows throughout movement",
+      "When you feel a stretch in your chest, reverse the motion",
+      "Bring the weights back up in an arc motion until they meet above your chest"
+    ],
+    "cues": [
+      "Maintain slight bend in elbows throughout",
+      "Focus on using lower chest muscles",
+      "Keep shoulders down and back",
+      "Control the weight throughout the movement",
+      "Don't let weights go below shoulder level"
+    ],
     "image": "decline-dumbbell-fly",
     "videoId": "",
     "bodyPart": "chest",
@@ -234,8 +273,20 @@
     "id": "9",
     "name": "Pec Deck",
     "description": "Light isolation exercise that targets the pectorals. Good for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "directions": [
+      "Adjust the seat height so that the handles are at chest level.",
+      "Sit on the machine with your back flat against the pad.",
+      "Grab the handles with your elbows slightly bent.",
+      "Push the handles together in front of your chest.",
+      "Pause briefly at the peak contraction.",
+      "Slowly return to the starting position."
+    ],
+    "cues": [
+      "Keep a slight bend in your elbows.",
+      "Focus on squeezing your chest muscles.",
+      "Control the weight throughout the movement.",
+      "Keep your back flat against the pad."
+    ],
     "image": "pec-deck",
     "videoId": "v3FVS6tLYgY",
     "bodyPart": "chest",
@@ -251,9 +302,22 @@
   {
     "id": "10",
     "name": "Underhand Bench Press",
-    "description": "Moderately heavy compound exercise that targets the upper pectorals, front deltoids, and triceps. Decent exercise for building size in the chest and triceps.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy compound exercise that targets the upper pectorals, front deltoids, and triceps with an emphasis on tricep engagement. Great for building strength and size in both chest and triceps.",
+    "directions": [
+      "Lie on a flat bench with feet planted firmly on the ground",
+      "Grip the barbell with an underhand grip, slightly narrower than shoulder width",
+      "Unrack the bar and hold it directly above your chest",
+      "Lower the bar with control to the lower chest/upper abs area",
+      "Press the bar back up to the starting position",
+      "Keep your elbows tucked close to your body throughout the movement"
+    ],
+    "cues": [
+      "Keep your elbows tucked close to your body",
+      "Maintain a slight arch in your back",
+      "Drive your feet into the ground",
+      "Control the bar path - it should be slightly diagonal",
+      "Keep your wrists straight throughout the movement"
+    ],
     "image": "underhand-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -269,9 +333,22 @@
   {
     "id": "11",
     "name": "Wide Grip Bench Press",
-    "description": "Heavy compound exercise that targets the pectorals, front deltoids, and triceps. Good exercise for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise that targets the outer chest, front deltoids, and triceps. Excellent for developing chest width and overall upper body strength.",
+    "directions": [
+      "Lie on a flat bench with feet planted firmly on the ground",
+      "Grip the barbell with a wide grip, about 1.5-2x shoulder width",
+      "Unrack the bar and hold it directly above your chest",
+      "Lower the bar with control to mid-chest level",
+      "Press the bar back up to the starting position",
+      "Keep your elbows at about a 75-degree angle throughout"
+    ],
+    "cues": [
+      "Keep your shoulder blades pinched together",
+      "Maintain a slight arch in your back",
+      "Drive your feet into the ground",
+      "Focus on pushing with your chest, not your shoulders",
+      "Control the descent of the bar"
+    ],
     "image": "wide-grip-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -287,9 +364,22 @@
   {
     "id": "12",
     "name": "Chest Press",
-    "description": "Moderately heavy compound exercise that targets the pectorals. Good exercise for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy compound exercise that targets the pectorals with machine assistance. Great for beginners and for maintaining constant tension throughout the movement.",
+    "directions": [
+      "Adjust the seat height so the handles are at chest level",
+      "Sit with your back flat against the pad",
+      "Grasp the handles with a full grip",
+      "Press the weight forward until your arms are extended",
+      "Slowly return to the starting position with control",
+      "Keep your elbows at shoulder level throughout"
+    ],
+    "cues": [
+      "Keep your chest up and out",
+      "Maintain contact between your back and the pad",
+      "Don't lock out your elbows at the top",
+      "Focus on squeezing your chest muscles",
+      "Control the weight throughout the movement"
+    ],
     "image": "chest-press",
     "videoId": "hDb9b78Gzpg",
     "bodyPart": "chest",
@@ -305,9 +395,21 @@
   {
     "id": "13",
     "name": "Push Up",
-    "description": "Bodyweight exercise that targets the pectorals, front delts, and triceps. Good exercise for building size and strength in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Fundamental bodyweight exercise that targets the chest, shoulders, and triceps. Excellent for building strength and muscle endurance in the upper body.",
+    "directions": [
+      "Start in a plank position with hands slightly wider than shoulders",
+      "Keep your body in a straight line from head to heels",
+      "Lower your body until your chest nearly touches the ground",
+      "Push yourself back up to the starting position",
+      "Keep your core tight throughout the movement"
+    ],
+    "cues": [
+      "Keep your body in a straight line - no sagging hips",
+      "Lock your core and glutes",
+      "Keep your elbows at about 45 degrees to your body",
+      "Look at a spot on the ground about a foot in front of you",
+      "Breathe steadily throughout the movement"
+    ],
     "image": "push-up",
     "videoId": "",
     "bodyPart": "chest",
@@ -323,9 +425,21 @@
   {
     "id": "14",
     "name": "Incline Push Up",
-    "description": "Bodyweight exercise that targets the lower pectorals, front delts, and triceps. Good exercise for building size and strength in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Modified bodyweight exercise that targets the lower chest, front deltoids, and triceps. Great for beginners or for emphasizing the lower chest region.",
+    "directions": [
+      "Place your hands on an elevated surface (bench, step, etc.)",
+      "Position your body in a straight line with feet on the ground",
+      "Lower your chest toward the elevated surface",
+      "Push back up to the starting position",
+      "Keep your core engaged throughout"
+    ],
+    "cues": [
+      "Maintain a straight line from head to heels",
+      "Keep your core tight",
+      "Don't let your hips sag",
+      "Control the movement both up and down",
+      "Keep your elbows at about 45 degrees to your body"
+    ],
     "image": "incline-push-up",
     "videoId": "",
     "bodyPart": "chest",
@@ -341,9 +455,21 @@
   {
     "id": "15",
     "name": "Decline Push Up",
-    "description": "Bodyweight exercise that targets the upper pectorals, front delts, and triceps. Great exercise for building size in the chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Advanced bodyweight exercise that targets the upper chest, front deltoids, and triceps. Excellent for developing upper chest strength and definition.",
+    "directions": [
+      "Place your feet on an elevated surface (bench, step, etc.)",
+      "Position your hands on the ground slightly wider than shoulders",
+      "Lower your chest toward the ground",
+      "Push back up to the starting position",
+      "Maintain a straight body position throughout"
+    ],
+    "cues": [
+      "Keep your core tight and body straight",
+      "Don't let your hips sag",
+      "Control the descent",
+      "Keep your elbows at about 45 degrees to your body",
+      "Look at the ground about a foot in front of your hands"
+    ],
     "image": "decline-push-up",
     "videoId": "",
     "bodyPart": "chest",
@@ -359,9 +485,21 @@
   {
     "id": "17",
     "name": "Dumbbell Shoulder Press",
-    "description": "Moderately heavy compound exercise that targets the front and side deltoids and triceps. Great exercise for building size and strength in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy compound exercise that targets the front and side deltoids and triceps. Great for building balanced shoulder development and overhead pressing strength.",
+    "directions": [
+      "Sit on a bench with back support or stand with feet shoulder-width apart",
+      "Hold dumbbells at shoulder level with palms facing forward",
+      "Press the dumbbells overhead until arms are fully extended",
+      "Lower the weights back to shoulder level with control",
+      "Keep your core tight throughout the movement"
+    ],
+    "cues": [
+      "Keep your core engaged",
+      "Don't arch your back",
+      "Press the weights straight up, not forward",
+      "Breathe out on the press up",
+      "Keep your shoulders down away from your ears"
+    ],
     "image": "dumbbell-shoulder-press",
     "videoId": "wtt6WRTxVfI",
     "bodyPart": "shoulders",
@@ -377,9 +515,21 @@
   {
     "id": "18",
     "name": "Dumbbell Lateral Raise",
-    "description": "Light isolation exercise that targets the side deltoids. Great for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the side deltoids. Essential for building shoulder width and achieving that capped deltoid look.",
+    "directions": [
+      "Stand with feet shoulder-width apart, dumbbells at your sides",
+      "Keep a slight bend in your elbows",
+      "Raise the dumbbells out to the sides until arms are parallel to the ground",
+      "Pause briefly at the top",
+      "Lower the weights back down with control"
+    ],
+    "cues": [
+      "Lead with your elbows, not your hands",
+      "Keep the same slight bend in your elbows throughout",
+      "Don't swing or use momentum",
+      "Keep your shoulders down and back",
+      "Think about pouring water from a pitcher at the top"
+    ],
     "image": "dumbbell-lateral-raise",
     "videoId": "zKW3fB1uqwA",
     "bodyPart": "shoulders",
@@ -395,9 +545,21 @@
   {
     "id": "19",
     "name": "Dumbbell Front Raise",
-    "description": "Light isolation exercise that targets the front deltoids. Good for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the front deltoids. Excellent for developing shoulder strength and anterior deltoid definition.",
+    "directions": [
+      "Stand with feet shoulder-width apart, dumbbells in front of thighs",
+      "Keep a slight bend in your elbows",
+      "Raise the dumbbells forward until arms are parallel to the ground",
+      "Pause briefly at the top",
+      "Lower the weights back down with control"
+    ],
+    "cues": [
+      "Keep your core tight",
+      "Maintain slight bend in elbows",
+      "Don't swing or use momentum",
+      "Control the descent",
+      "Keep your shoulders down and back"
+    ],
     "image": "dumbbell-front-raise",
     "videoId": "",
     "bodyPart": "shoulders",
@@ -413,9 +575,21 @@
   {
     "id": "20",
     "name": "Military Press",
-    "description": "Heavy compound exercise that targets the front deltoids and triceps. Great for building strength in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise that targets the entire shoulder complex. One of the best exercises for building overall shoulder strength and mass.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Hold the barbell at shoulder level with palms facing forward",
+      "Press the bar overhead until arms are fully extended",
+      "Lower the bar back to shoulder level with control",
+      "Keep your core tight and maintain a neutral spine"
+    ],
+    "cues": [
+      "Keep your core braced tight",
+      "Push your head through at the top",
+      "Keep the bar close to your face on the way up",
+      "Don't lean back excessively",
+      "Lock out your elbows at the top"
+    ],
     "image": "military-press",
     "videoId": "YR9wlbrSegs",
     "bodyPart": "shoulders",
@@ -431,15 +605,27 @@
   {
     "id": "21",
     "name": "Barbell Upright Row",
-    "description": "Moderately heavy isolation exercise that targets the front and side deltoids and trapezius. Great for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy compound exercise that targets the side deltoids and upper traps. Effective for building shoulder width and trap development.",
+    "directions": [
+      "Stand with feet shoulder-width apart, holding barbell in front of thighs",
+      "Pull the bar straight up towards your chin, leading with your elbows",
+      "Keep the bar close to your body throughout the movement",
+      "Lower the bar back down with control",
+      "Maintain an upright torso throughout"
+    ],
+    "cues": [
+      "Lead with your elbows",
+      "Keep the bar close to your body",
+      "Don't swing or use momentum",
+      "Keep your shoulders down until the pull",
+      "Control the descent"
+    ],
     "image": "barbell-upright-row",
     "videoId": "E_cNjGG2ptg",
     "bodyPart": "shoulders",
     "primaryGroup": "side deltoids",
     "secondaryGroups": ["front deltoids", "trapezius"],
-    "exerciseType": "isolation",
+    "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 10,
     "repsHigh": 20,
@@ -449,9 +635,21 @@
   {
     "id": "22",
     "name": "Reverse Pec Deck",
-    "description": "Light isolation exercise that targets the rear deltoids. Good for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the rear deltoids. Crucial for balanced shoulder development and improved posture.",
+    "directions": [
+      "Sit facing the machine with your chest against the pad",
+      "Grab the handles with palms facing down",
+      "Pull the handles back and out until arms are parallel to ground",
+      "Squeeze your rear deltoids at peak contraction",
+      "Return to starting position with control"
+    ],
+    "cues": [
+      "Keep your chest pressed against the pad",
+      "Lead with your elbows",
+      "Don't shrug your shoulders",
+      "Focus on squeezing your rear deltoids",
+      "Maintain controlled movement throughout"
+    ],
     "image": "reverse-pec-deck",
     "videoId": "",
     "bodyPart": "shoulders",
@@ -467,9 +665,21 @@
   {
     "id": "23",
     "name": "Face Pull",
-    "description": "Light isolation exercise that targets the rear deltoids. Good for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the rear deltoids and upper back. Essential for shoulder health and posture.",
+    "directions": [
+      "Set cable pulley to upper chest height",
+      "Grab rope attachment with both hands, palms facing each other",
+      "Step back to create tension in the cable",
+      "Pull the rope towards your face, splitting the ends apart at the end",
+      "Control the return to starting position"
+    ],
+    "cues": [
+      "Pull towards your nose, not your chest",
+      "Keep your upper arms parallel to ground at end position",
+      "Squeeze your shoulder blades together",
+      "Keep your elbows high",
+      "Control the negative portion"
+    ],
     "image": "face-pull",
     "videoId": "rDiMkLV_Y_s",
     "bodyPart": "shoulders",
@@ -485,9 +695,21 @@
   {
     "id": "24",
     "name": "Dumbbell Rear Delt Fly",
-    "description": "Light isolation exercise that targets the rear deltoids. Good for building size in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the rear deltoids. Great for building balanced shoulders and improving posture.",
+    "directions": [
+      "Bend over at hips until torso is nearly parallel to ground",
+      "Let arms hang straight down, palms facing each other",
+      "Raise dumbbells out to sides until upper arms are parallel to ground",
+      "Squeeze rear deltoids at top of movement",
+      "Lower weights back down with control"
+    ],
+    "cues": [
+      "Keep your back flat",
+      "Lead with your elbows",
+      "Don't swing the weights",
+      "Maintain slight bend in elbows",
+      "Focus on rear deltoid contraction"
+    ],
     "image": "rear-delt-fly",
     "videoId": "HnUJc67AOKE",
     "bodyPart": "shoulders",
@@ -503,9 +725,21 @@
   {
     "id": "25",
     "name": "Machine Shoulder Press",
-    "description": "Moderately heavy compound exercise that targets the front deltoids and triceps. Good exercise for building size and strength in the shoulders.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy compound exercise that targets the front deltoids and triceps. Great for controlled shoulder development with reduced stabilization requirements.",
+    "directions": [
+      "Adjust seat height so handles are at shoulder level",
+      "Grasp handles with a comfortable grip",
+      "Press the weight up until arms are extended",
+      "Lower the weight back to starting position with control",
+      "Keep your back against the pad throughout"
+    ],
+    "cues": [
+      "Keep your core tight",
+      "Don't arch your back",
+      "Press straight up",
+      "Control the descent",
+      "Keep your shoulders down and back"
+    ],
     "image": "machine-shoulder-press",
     "videoId": "QwMjLKUd_CI",
     "bodyPart": "shoulders",
@@ -521,9 +755,21 @@
   {
     "id": "27",
     "name": "Cable Kickback",
-    "description": "Very light isolation exercise that targets the triceps. Good for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the triceps. Excellent for developing tricep definition and maintaining constant tension throughout the movement.",
+    "directions": [
+      "Stand sideways to cable machine, upper arm parallel to ground",
+      "Grab handle with working arm, keep upper arm still",
+      "Extend arm straight back, focusing on tricep contraction",
+      "Slowly return to starting position",
+      "Keep upper arm stationary throughout movement"
+    ],
+    "cues": [
+      "Keep your upper arm still",
+      "Squeeze your tricep at full extension",
+      "Control the return movement",
+      "Keep your core tight",
+      "Focus on isolation, not weight"
+    ],
     "image": "cable-kickback",
     "videoId": "9PdBvVIIgdo",
     "bodyPart": "arms",
@@ -539,9 +785,22 @@
   {
     "id": "28",
     "name": "Dumbbell Kickback",
-    "description": "Very light isolation exercise that targets the triceps. Good for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Light isolation exercise that targets the triceps. Excellent for developing tricep definition and peak contraction.",
+    "directions": [
+      "Bend over at the hips, keeping back straight",
+      "Hold a dumbbell in one hand, upper arm parallel to ground",
+      "Keep your upper arm still against your side",
+      "Extend your arm back until it's straight",
+      "Slowly return to the starting position",
+      "Complete all reps on one side before switching"
+    ],
+    "cues": [
+      "Keep your upper arm pinned to your side",
+      "Focus on squeezing your tricep at full extension",
+      "Don't swing or use momentum",
+      "Maintain control throughout the movement",
+      "Keep your core tight and back straight"
+    ],
     "image": "dumbbell-kickback",
     "videoId": "",
     "bodyPart": "arms",
@@ -557,9 +816,22 @@
   {
     "id": "29",
     "name": "Barbell Overhead Extension",
-    "description": "Moderately heavy isolation exercise that targets the triceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy isolation exercise that targets all three heads of the triceps. Great for building overall tricep size and strength.",
+    "directions": [
+      "Sit or stand with feet shoulder-width apart",
+      "Hold barbell overhead with narrow grip",
+      "Lower the bar behind your head by bending elbows",
+      "Keep upper arms stationary and close to your head",
+      "Extend arms back up to starting position",
+      "Control the weight throughout the movement"
+    ],
+    "cues": [
+      "Keep your elbows pointed forward, not out",
+      "Don't let your elbows flare out",
+      "Keep your core tight",
+      "Control the descent",
+      "Focus on tricep contraction"
+    ],
     "image": "barbell-overhead-extension",
     "videoId": "",
     "bodyPart": "arms",
@@ -575,9 +847,22 @@
   {
     "id": "30",
     "name": "Dumbbell Skullcrusher",
-    "description": "Moderately heavy isolation exercise that targets the triceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy isolation exercise that targets the long head of the triceps. Excellent for building tricep mass and strength.",
+    "directions": [
+      "Lie on a bench holding dumbbells above your chest",
+      "Keep your upper arms perpendicular to the ground",
+      "Lower the dumbbells toward your forehead by bending elbows",
+      "Keep upper arms stationary throughout",
+      "Extend arms back to starting position",
+      "Control the weights throughout"
+    ],
+    "cues": [
+      "Keep your elbows pointed toward the ceiling",
+      "Don't let your elbows flare out",
+      "Keep your upper arms still",
+      "Control the descent",
+      "Focus on tricep engagement"
+    ],
     "image": "dumbbell-skullcrusher",
     "videoId": "",
     "bodyPart": "arms",
@@ -593,9 +878,22 @@
   {
     "id": "31",
     "name": "Cable Overhead Extension",
-    "description": "Moderately heavy isolation exercise that targets the triceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy isolation exercise that targets the long head of the triceps. Great for maintaining constant tension throughout the movement.",
+    "directions": [
+      "Face away from cable machine, feet staggered",
+      "Hold rope attachment overhead with both hands",
+      "Keep upper arms by your ears, elbows pointed forward",
+      "Extend arms forward and down until straight",
+      "Slowly return to starting position",
+      "Maintain control throughout"
+    ],
+    "cues": [
+      "Keep your upper arms still by your ears",
+      "Don't let your elbows flare out",
+      "Maintain tension throughout the movement",
+      "Control the return",
+      "Keep your core engaged"
+    ],
     "image": "cable-overhead-extension",
     "videoId": "",
     "bodyPart": "arms",
@@ -611,9 +909,22 @@
   {
     "id": "32",
     "name": "Cable Rope Pulldown",
-    "description": "Moderately heavy isolation exercise that targets the triceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy isolation exercise that targets all heads of the triceps. Excellent for developing tricep definition and peak contraction.",
+    "directions": [
+      "Stand facing cable machine, feet shoulder-width apart",
+      "Grab rope attachment with palms facing each other",
+      "Keep upper arms pinned to your sides",
+      "Push the rope down until arms are fully extended",
+      "Split the rope apart at the bottom for extra contraction",
+      "Slowly return to starting position"
+    ],
+    "cues": [
+      "Keep your elbows pinned to your sides",
+      "Focus on squeezing your triceps at the bottom",
+      "Control the weight up and down",
+      "Don't let your elbows move forward",
+      "Split the rope at the bottom"
+    ],
     "image": "cable-rope-pulldown",
     "videoId": "ihlEIsSjI4A",
     "bodyPart": "arms",
@@ -629,9 +940,22 @@
   {
     "id": "33",
     "name": "Cable Pushdown",
-    "description": "Moderately heavy isolation exercise that targets the triceps. Great for building size in the arms",
-    "directions": [],
-    "cues": [],
+    "description": "Moderately heavy isolation exercise that targets all heads of the triceps. Great for building tricep strength and definition.",
+    "directions": [
+      "Stand facing cable machine, feet shoulder-width apart",
+      "Grab straight bar with overhand grip",
+      "Keep upper arms pinned to your sides",
+      "Push the bar down until arms are fully extended",
+      "Squeeze triceps at the bottom",
+      "Slowly return to starting position"
+    ],
+    "cues": [
+      "Keep your elbows pinned to your sides",
+      "Don't let the bar pull your elbows forward",
+      "Squeeze hard at the bottom",
+      "Control the weight up and down",
+      "Keep your core tight"
+    ],
     "image": "cable-pushdown",
     "videoId": "VrU03UrvpEo",
     "bodyPart": "arms",
@@ -647,9 +971,22 @@
   {
     "id": "34",
     "name": "Close Grip Bench Press",
-    "description": "Moderately heavy compound exercise that targets the triceps, pectorals, and front deltoids. Great exercise for building size and strength in the arms and chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise that primarily targets the triceps while also working chest and shoulders. Excellent for building overall tricep strength and mass.",
+    "directions": [
+      "Lie on bench with feet flat on floor",
+      "Grip barbell with hands about shoulder-width apart",
+      "Lower bar to lower chest with elbows tucked",
+      "Press bar back up to starting position",
+      "Keep elbows close to body throughout",
+      "Maintain control of the bar"
+    ],
+    "cues": [
+      "Keep your elbows tucked close to your body",
+      "Control the bar path",
+      "Drive with your triceps",
+      "Keep your back flat on the bench",
+      "Maintain wrist alignment"
+    ],
     "image": "close-grip-bench-press",
     "videoId": "ym-8Cw6j2Vw",
     "bodyPart": "arms",
@@ -665,9 +1002,22 @@
   {
     "id": "35",
     "name": "Close Grip Push Up",
-    "description": "Bodyweight exercise that targets the triceps, pectorals, and front delts. Great exercise for building size and strength in the arms and chest.",
-    "directions": [],
-    "cues": [],
+    "description": "Bodyweight exercise that emphasizes the triceps while also working chest and shoulders. Great for building tricep strength and endurance.",
+    "directions": [
+      "Start in push-up position with hands close together",
+      "Keep your hands directly under your shoulders",
+      "Lower your body until chest nearly touches ground",
+      "Keep elbows tucked close to body",
+      "Push back up to starting position",
+      "Maintain straight body alignment"
+    ],
+    "cues": [
+      "Keep your elbows tucked in tight",
+      "Maintain a straight body line",
+      "Don't let your hips sag",
+      "Focus on tricep engagement",
+      "Control the movement"
+    ],
     "image": "close-grip-push-up",
     "videoId": "",
     "bodyPart": "arms",
@@ -683,9 +1033,22 @@
   {
     "id": "37",
     "name": "Chin Up",
-    "description": "Bodyweight exercise that targets the biceps and lats. Great for building size and strength in the arms and back.",
-    "directions": [],
-    "cues": [],
+    "description": "Challenging compound exercise that targets the biceps and lats. Excellent for building pulling strength and upper body mass.",
+    "directions": [
+      "Hang from pull-up bar with underhand grip",
+      "Grip slightly narrower than shoulder width",
+      "Pull yourself up until chin clears the bar",
+      "Focus on driving elbows down and back",
+      "Lower yourself with control",
+      "Maintain tension throughout"
+    ],
+    "cues": [
+      "Initiate the pull with your biceps",
+      "Keep your chest up",
+      "Squeeze your shoulder blades together",
+      "Control the descent",
+      "Don't swing or kip"
+    ],
     "image": "chin-up",
     "videoId": "",
     "bodyPart": "arms",
@@ -701,9 +1064,22 @@
   {
     "id": "38",
     "name": "Barbell Curl",
-    "description": "Moderately heavy isolation exercise that targets the biceps. Great for building size and strength in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Classic compound exercise that targets the biceps. One of the best exercises for building overall bicep mass and strength.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Hold barbell with underhand grip at shoulder width",
+      "Keep upper arms stationary against sides",
+      "Curl the weight up toward your shoulders",
+      "Pause briefly at the top",
+      "Lower the weight with control"
+    ],
+    "cues": [
+      "Keep your elbows pinned to your sides",
+      "Don't swing or use momentum",
+      "Squeeze your biceps at the top",
+      "Control the negative portion",
+      "Keep your core tight and back straight"
+    ],
     "image": "barbell-curl",
     "videoId": "ZD1hWhK4mgA",
     "bodyPart": "arms",
@@ -719,9 +1095,22 @@
   {
     "id": "39",
     "name": "Dumbbell Curl",
-    "description": "Moderately heavy isolation exercise that targets the biceps. Great for building size and strength in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Fundamental bicep exercise that allows for natural wrist rotation. Great for building bicep size and strength while working each arm independently.",
+    "directions": [
+      "Stand with feet shoulder-width apart, dumbbells at sides",
+      "Keep upper arms stationary against your sides",
+      "Curl both dumbbells up toward your shoulders",
+      "Rotate your wrists slightly as you curl up",
+      "Pause at the top",
+      "Lower with control to starting position"
+    ],
+    "cues": [
+      "Keep your elbows pinned to your sides",
+      "Control the weight - no swinging",
+      "Squeeze your biceps at the top",
+      "Allow for natural wrist rotation",
+      "Keep your core engaged"
+    ],
     "image": "dumbbell-curl",
     "videoId": "2jzoX5Nr6Qs",
     "bodyPart": "arms",
@@ -737,9 +1126,22 @@
   {
     "id": "40",
     "name": "Dumbbell Hammer Curl",
-    "description": "Moderately heavy isolation exercise that targets the biceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Variation of the dumbbell curl that targets both the biceps and forearms. Excellent for developing forearm strength and overall arm thickness.",
+    "directions": [
+      "Stand with feet shoulder-width apart, dumbbells at sides",
+      "Hold dumbbells with neutral grip (palms facing each other)",
+      "Keep upper arms stationary against sides",
+      "Curl weights up toward shoulders, maintaining neutral grip",
+      "Pause briefly at the top",
+      "Lower with control to starting position"
+    ],
+    "cues": [
+      "Keep palms facing each other throughout",
+      "Don't swing the weights",
+      "Keep elbows close to body",
+      "Control the descent",
+      "Focus on squeezing at the top"
+    ],
     "image": "dumbbell-hammer-curl",
     "videoId": "CxLLcbAY56w",
     "bodyPart": "arms",
@@ -755,9 +1157,22 @@
   {
     "id": "41",
     "name": "Cable Hammer Curl",
-    "description": "Moderately heavy exercise that targets the biceps. Good for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Cable variation of the hammer curl providing constant tension throughout the movement. Great for building bicep and forearm strength.",
+    "directions": [
+      "Stand facing cable machine, feet shoulder-width apart",
+      "Attach rope handle to low pulley",
+      "Grab rope ends with neutral grip (palms facing each other)",
+      "Keep elbows at sides and curl rope up toward shoulders",
+      "Squeeze biceps at the top",
+      "Lower with control to starting position"
+    ],
+    "cues": [
+      "Keep your elbows pinned to your sides",
+      "Maintain neutral grip throughout",
+      "Control the weight both up and down",
+      "Don't let the weight pull your elbows forward",
+      "Focus on constant tension"
+    ],
     "image": "cable-hammer-curl",
     "videoId": "",
     "bodyPart": "arms",
@@ -773,9 +1188,22 @@
   {
     "id": "42",
     "name": "Dumbbell Decline Curl",
-    "description": "Light isolation exercise that targets the biceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise that places the biceps in a stretched position. Great for developing the long head of the biceps.",
+    "directions": [
+      "Lie on a decline bench with head lower than hips",
+      "Hold dumbbells with arms hanging straight down",
+      "Keep upper arms perpendicular to the ground",
+      "Curl weights up toward shoulders",
+      "Pause briefly at peak contraction",
+      "Lower weights with control"
+    ],
+    "cues": [
+      "Keep upper arms still and perpendicular",
+      "Focus on full range of motion",
+      "Control the negative portion",
+      "Don't swing the weights",
+      "Squeeze hard at the top"
+    ],
     "image": "dumbbell-decline-curl",
     "videoId": "jIYzQgHZgzs",
     "bodyPart": "arms",
@@ -791,9 +1219,22 @@
   {
     "id": "43",
     "name": "Bayesian Cable Curl",
-    "description": "Light isolation exercise that targets the biceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Unique cable curl variation that maintains maximum tension on the biceps throughout the movement. Excellent for developing peak contraction.",
+    "directions": [
+      "Stand sideways to cable machine",
+      "Grab handle with outside hand, palm up",
+      "Keep elbow elevated and in front of body",
+      "Curl handle up and in toward opposite shoulder",
+      "Squeeze bicep hard at the top",
+      "Lower with control to starting position"
+    ],
+    "cues": [
+      "Keep elbow elevated throughout",
+      "Curl across your body",
+      "Focus on peak contraction",
+      "Control the negative",
+      "Don't let elbow drop"
+    ],
     "image": "bayesian-cable-curl",
     "videoId": "rzMdB8PfC_I",
     "bodyPart": "arms",
@@ -809,9 +1250,22 @@
   {
     "id": "44",
     "name": "Cable Curl",
-    "description": "Moderately heavy isolation exercise that targets the biceps. Great for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Cable variation of the bicep curl providing constant tension throughout the movement. Great for building bicep strength and endurance.",
+    "directions": [
+      "Stand facing cable machine, feet shoulder-width apart",
+      "Attach straight bar to low pulley",
+      "Grab bar with underhand grip at shoulder width",
+      "Keep elbows at sides and curl bar up",
+      "Squeeze biceps at the top",
+      "Lower with control to starting position"
+    ],
+    "cues": [
+      "Keep elbows pinned to sides",
+      "Don't let the weight pull you forward",
+      "Maintain constant tension",
+      "Control the negative portion",
+      "Focus on squeezing at the top"
+    ],
     "image": "cable-curl",
     "videoId": "Pj5LGMHZN64",
     "bodyPart": "arms",
@@ -827,9 +1281,22 @@
   {
     "id": "45",
     "name": "Dumbbell Static Curl",
-    "description": "Light isolation exercise that targets the biceps. Decent for building size in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise that builds bicep strength through isometric holds. Great for developing mind-muscle connection and endurance.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Hold one dumbbell at 90-degree angle",
+      "Hold other dumbbell at full extension",
+      "Hold position for prescribed time",
+      "Switch arm positions",
+      "Alternate between arms"
+    ],
+    "cues": [
+      "Keep strict form during holds",
+      "Don't let arms shake",
+      "Maintain tension throughout",
+      "Focus on bicep contraction",
+      "Keep core engaged"
+    ],
     "image": "dumbbell-static-curl",
     "videoId": "",
     "bodyPart": "arms",
@@ -845,9 +1312,22 @@
   {
     "id": "46",
     "name": "Barbell Cheat Curl",
-    "description": "Heavy isolation exercise that targets the biceps. Decent for building size and strength in the arms.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy variation of the barbell curl using controlled momentum. Good for overloading the biceps with heavier weights than strict curls.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Hold barbell with underhand grip at shoulder width",
+      "Use slight hip drive to initiate curl",
+      "Control the weight through the movement",
+      "Lower weight slowly and with control",
+      "Reset position before next rep"
+    ],
+    "cues": [
+      "Use minimal body English",
+      "Control the negative portion",
+      "Keep core tight throughout",
+      "Don't lean back excessively",
+      "Focus on bicep engagement despite momentum"
+    ],
     "image": "barbell-cheat-curl",
     "videoId": "",
     "bodyPart": "arms",
@@ -863,9 +1343,22 @@
   {
     "id": "48",
     "name": "Overhand Bent Row",
-    "description": "Heavy compound exercise that targets the lats and general back musculature. Great for building size and strength in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the upper back with emphasis on the rear deltoids and traps. Great for building back width and thickness.",
+    "directions": [
+      "Bend at hips until torso is nearly parallel to ground",
+      "Hold barbell with overhand grip, wider than shoulder width",
+      "Let bar hang at arms length",
+      "Pull bar to lower chest/upper abs",
+      "Squeeze shoulder blades together at top",
+      "Lower bar with control"
+    ],
+    "cues": [
+      "Keep back flat throughout",
+      "Lead with your elbows",
+      "Squeeze shoulder blades together",
+      "Control the descent",
+      "Don't round your lower back"
+    ],
     "image": "overhand-bent-row",
     "videoId": "by6LHlE7Rq4",
     "bodyPart": "back",
@@ -887,9 +1380,22 @@
   {
     "id": "49",
     "name": "Underhand Bent Row",
-    "description": "Heavy compound exercise that targets the lats and general back musculature. Great for building size and strength in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise that targets the lats and general back musculature. Great for building size and strength in the back while emphasizing bicep engagement.",
+    "directions": [
+      "Bend at hips until torso is nearly parallel to ground",
+      "Hold barbell with underhand grip at shoulder width",
+      "Let bar hang at arms length",
+      "Pull bar to lower chest/upper abs",
+      "Squeeze back muscles at the top",
+      "Lower bar with control"
+    ],
+    "cues": [
+      "Keep your back flat",
+      "Pull through your elbows",
+      "Keep the bar close to your body",
+      "Control the descent",
+      "Don't round your lower back"
+    ],
     "image": "underhand-bent-row",
     "videoId": "wl9EO-gzyGk",
     "bodyPart": "back",
@@ -911,9 +1417,22 @@
   {
     "id": "50",
     "name": "Pendlay Row",
-    "description": "Heavy compound exercise that targets the lats and general back musculature. Great for building size and strength in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise that targets the lats and upper back. Excellent for building explosive pulling strength and back thickness.",
+    "directions": [
+      "Start with bar on ground, feet shoulder-width apart",
+      "Bend at hips until torso is parallel to ground",
+      "Grip bar with overhand grip, wider than shoulder width",
+      "Pull bar explosively to lower chest",
+      "Lower bar completely to ground between reps",
+      "Reset position for each rep"
+    ],
+    "cues": [
+      "Keep your back parallel to ground",
+      "Pull explosively",
+      "Let the bar touch the ground each rep",
+      "Reset your position each rep",
+      "Maintain rigid torso position"
+    ],
     "image": "pendlay-row",
     "videoId": "",
     "bodyPart": "back",
@@ -935,9 +1454,22 @@
   {
     "id": "51",
     "name": "Pull Up",
-    "description": "Bodyweight exercise that targets the lats and mid back. Great for building size and strength in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Challenging compound exercise that targets the lats and upper back. One of the best exercises for building back width and overall pulling strength.",
+    "directions": [
+      "Hang from pull-up bar with overhand grip",
+      "Grip slightly wider than shoulder width",
+      "Pull yourself up until chin clears the bar",
+      "Focus on driving elbows down and back",
+      "Lower yourself with control",
+      "Maintain tension at bottom"
+    ],
+    "cues": [
+      "Lead with your chest",
+      "Drive elbows down and back",
+      "Squeeze your shoulder blades together",
+      "Control the descent",
+      "Keep core tight throughout"
+    ],
     "image": "pull-up",
     "videoId": "yvRS1NgV9AY",
     "bodyPart": "back",
@@ -953,9 +1485,22 @@
   {
     "id": "52",
     "name": "Lat Pulldown",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise that mimics the pull-up movement pattern. Great for building back width and strength with adjustable resistance.",
+    "directions": [
+      "Sit at machine with thighs secured under pad",
+      "Grab bar with overhand grip, wider than shoulders",
+      "Start with arms fully extended",
+      "Pull bar down to upper chest",
+      "Squeeze lats at bottom of movement",
+      "Return to start position with control"
+    ],
+    "cues": [
+      "Keep your chest up",
+      "Drive elbows down and back",
+      "Lean back slightly",
+      "Control the weight up",
+      "Full stretch at top"
+    ],
     "image": "lat-pulldown",
     "videoId": "zWYwVGIuTYs",
     "bodyPart": "back",
@@ -971,9 +1516,22 @@
   {
     "id": "53",
     "name": "Cable Row",
-    "description": "Moderately heavy compound exercise that targets the lats. Great for building size in the back",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise that targets the middle back. Excellent for building back thickness and improving posture.",
+    "directions": [
+      "Sit at cable row machine, feet on platform",
+      "Grab handle with neutral grip",
+      "Keep chest up and back straight",
+      "Pull handle to lower chest/upper abs",
+      "Squeeze shoulder blades together",
+      "Return to start position with control"
+    ],
+    "cues": [
+      "Keep your chest up",
+      "Drive elbows back",
+      "Squeeze shoulder blades together",
+      "Don't round your back",
+      "Control the negative"
+    ],
     "image": "cable-row",
     "videoId": "Q2O4To3sCpA",
     "bodyPart": "back",
@@ -989,9 +1547,22 @@
   {
     "id": "54",
     "name": "T-Bar Row",
-    "description": "Moderately heavy compound exercise that targets the mid back. Great for building size in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the middle back. Great for building back thickness and strength with a natural movement pattern.",
+    "directions": [
+      "Straddle the bar with chest supported on pad",
+      "Grab handles with neutral grip",
+      "Start with arms fully extended",
+      "Pull weight up by driving elbows back",
+      "Squeeze back muscles at top",
+      "Lower weight with control"
+    ],
+    "cues": [
+      "Keep chest supported throughout",
+      "Drive elbows back and up",
+      "Squeeze shoulder blades together",
+      "Control the descent",
+      "Full stretch at bottom"
+    ],
     "image": "t-bar-row",
     "videoId": "kQGmopy4lc8",
     "bodyPart": "back",
@@ -1013,9 +1584,22 @@
   {
     "id": "55",
     "name": "Landmine Row",
-    "description": "Moderately heavy compound exercise that targets the lats and mid back. Good for building size in the back.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise that targets the lats and mid back. Good for building unilateral strength and muscle mass.",
+    "directions": [
+      "Stand straddling landmine base",
+      "Grab end of bar with one hand",
+      "Hinge at hips until torso is nearly parallel to ground",
+      "Pull bar end to hip",
+      "Lower with control",
+      "Complete all reps before switching sides"
+    ],
+    "cues": [
+      "Keep back flat",
+      "Pull through your elbow",
+      "Keep core tight",
+      "Control the negative",
+      "Don't rotate torso"
+    ],
     "image": "landmine-row",
     "videoId": "",
     "bodyPart": "back",
@@ -1031,9 +1615,22 @@
   {
     "id": "57",
     "name": "Barbell Deadlift",
-    "description": "Heavy compound exercise that targets the posterior chain. Great for building size and strength in then legs and back.",
-    "directions": [],
-    "cues": [],
+    "description": "Fundamental compound exercise that targets the entire posterior chain. One of the best exercises for building overall strength and muscle mass.",
+    "directions": [
+      "Stand with feet hip-width apart, bar over mid-foot",
+      "Bend down and grip bar just outside legs",
+      "Keep chest up, flatten back",
+      "Drive through heels to lift bar",
+      "Keep bar close to legs throughout",
+      "Return bar to ground with control"
+    ],
+    "cues": [
+      "Chest up, shoulders back",
+      "Push the floor away",
+      "Keep bar close to legs",
+      "Brace your core",
+      "Neutral spine throughout"
+    ],
     "image": "barbell-deadlift",
     "videoId": "s_pSjqG792g",
     "bodyPart": "legs",
@@ -1056,9 +1653,22 @@
   {
     "id": "58",
     "name": "Barbell Stiff-Legged Deadlift",
-    "description": "Moderately heavy compound exercise that targets the posterior chain. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the hamstrings and lower back. Excellent for developing hamstring flexibility and strength.",
+    "directions": [
+      "Stand with feet hip-width apart, holding bar",
+      "Keep legs straight but not locked",
+      "Hinge at hips, pushing butt back",
+      "Lower bar along legs while maintaining back position",
+      "Feel stretch in hamstrings",
+      "Return to starting position"
+    ],
+    "cues": [
+      "Push hips back",
+      "Keep back flat",
+      "Slight bend in knees",
+      "Bar close to legs",
+      "Feel hamstring stretch"
+    ],
     "image": "barbell-stiff-legged-deadlift",
     "videoId": "F1y_M2zhw-w",
     "bodyPart": "legs",
@@ -1081,9 +1691,22 @@
   {
     "id": "59",
     "name": "Dumbbell Stiff-Legged Deadlift",
-    "description": "Moderately heavy compound exercise that targets the posterior chain. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the hamstrings and lower back. Great variation for focusing on unilateral development and balance.",
+    "directions": [
+      "Stand with feet hip-width apart, dumbbells in front of thighs",
+      "Keep legs straight but not locked",
+      "Hinge at hips, pushing butt back",
+      "Lower weights along legs",
+      "Feel stretch in hamstrings",
+      "Return to starting position"
+    ],
+    "cues": [
+      "Push hips back",
+      "Keep back flat",
+      "Slight bend in knees",
+      "Weights close to legs",
+      "Control the movement"
+    ],
     "image": "dumbbell-stiff-legged-deadlift",
     "videoId": "U62WiOnomjQ",
     "bodyPart": "legs",
@@ -1106,9 +1729,22 @@
   {
     "id": "60",
     "name": "Barbell Romanian Deadlift",
-    "description": "Moderately heavy compound exercise that targets the posterior chain. Great for building size in the glutes.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise emphasizing the hip hinge movement. Excellent for developing posterior chain strength and muscle mass.",
+    "directions": [
+      "Start holding bar at hip level",
+      "Keep soft bend in knees throughout",
+      "Push hips back while lowering bar",
+      "Lower bar to mid-shin or until you feel hamstring stretch",
+      "Drive hips forward to return to start",
+      "Maintain neutral spine throughout"
+    ],
+    "cues": [
+      "Push hips back",
+      "Bar close to legs",
+      "Chest up",
+      "Soft knee bend",
+      "Drive hips forward"
+    ],
     "image": "barbell-romanian-deadlift",
     "videoId": "",
     "bodyPart": "legs",
@@ -1131,9 +1767,22 @@
   {
     "id": "61",
     "name": "Dumbbell Romanian Deadlift",
-    "description": "Moderately heavy compound exercise that targets the posterior chain. Great for building size in the glutes.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the posterior chain. Great for developing hip hinge pattern and hamstring flexibility.",
+    "directions": [
+      "Stand with dumbbells in front of thighs",
+      "Keep soft bend in knees throughout",
+      "Push hips back while lowering weights",
+      "Lower to mid-shin or until you feel hamstring stretch",
+      "Drive hips forward to return to start",
+      "Maintain neutral spine throughout"
+    ],
+    "cues": [
+      "Push hips back",
+      "Weights close to legs",
+      "Chest up",
+      "Soft knee bend",
+      "Feel hamstring stretch"
+    ],
     "image": "dumbbell-romanian-deadlift",
     "videoId": "Xptyry-O1mI",
     "bodyPart": "legs",
@@ -1156,9 +1805,22 @@
   {
     "id": "62",
     "name": "Lying Leg Curl",
-    "description": "Light isolation exercise that targets the hamstrings. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the hamstrings. Excellent for developing hamstring strength and muscle definition.",
+    "directions": [
+      "Lie face down on machine, legs straight",
+      "Hook ankles under pad",
+      "Curl weight up by bending knees",
+      "Squeeze hamstrings at top",
+      "Lower weight with control",
+      "Keep hips pressed into pad throughout"
+    ],
+    "cues": [
+      "Keep hips down",
+      "Squeeze hamstrings hard",
+      "Control the negative",
+      "Full range of motion",
+      "Focus on hamstring contraction"
+    ],
     "image": "lying-leg-curl",
     "videoId": "b96xOGilg0U",
     "bodyPart": "legs",
@@ -1174,9 +1836,22 @@
   {
     "id": "63",
     "name": "Seated Leg Curl",
-    "description": "Light isolation exercise that targets the hamstrings. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the hamstrings. Great for developing hamstring strength in a seated position.",
+    "directions": [
+      "Sit on machine with back against pad",
+      "Hook ankles behind roller pad",
+      "Curl weight up by bending knees",
+      "Squeeze hamstrings at peak contraction",
+      "Lower weight with control",
+      "Maintain good posture throughout"
+    ],
+    "cues": [
+      "Keep back against pad",
+      "Squeeze hamstrings hard",
+      "Control the negative",
+      "Full range of motion",
+      "Focus on hamstring contraction"
+    ],
     "image": "seated-leg-curl",
     "videoId": "BaDqwwnX4Ts",
     "bodyPart": "legs",
@@ -1192,9 +1867,22 @@
   {
     "id": "65",
     "name": "Low Bar Squat",
-    "description": "Heavy compound exercise that targets the quads and posterior chain. Great for building size and strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise emphasizing posterior chain engagement. Excellent for building overall lower body strength and muscle mass.",
+    "directions": [
+      "Position bar low on rear deltoids",
+      "Grip bar with hands as close as mobility allows",
+      "Break at hips first, then knees",
+      "Sit back and down between your legs",
+      "Keep chest up and core braced",
+      "Drive through heels to stand"
+    ],
+    "cues": [
+      "Bar low on back",
+      "Break at hips first",
+      "Knees out",
+      "Chest up",
+      "Drive through heels"
+    ],
     "image": "low-bar-squat",
     "videoId": "VXf2ycioUaU",
     "bodyPart": "legs",
@@ -1215,9 +1903,22 @@
   {
     "id": "66",
     "name": "High Bar Squat",
-    "description": "Heavy compound exercise that targets the quads and glutes. Great for building size and strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise targeting the quads and glutes. Great for building overall leg strength and muscle mass.",
+    "directions": [
+      "Position bar on upper traps",
+      "Grip bar with hands just outside shoulders",
+      "Break at knees and hips simultaneously",
+      "Keep torso more upright than low bar",
+      "Descend until thighs are parallel or below",
+      "Drive through mid-foot to stand"
+    ],
+    "cues": [
+      "Bar on upper traps",
+      "Chest up",
+      "Knees out",
+      "Stay upright",
+      "Full depth"
+    ],
     "image": "high-bar-squat",
     "videoId": "UBMmdOebvbU",
     "bodyPart": "legs",
@@ -1233,9 +1934,22 @@
   {
     "id": "67",
     "name": "Front Squat",
-    "description": "Heavy compound exercise that targets the quads. Great for building size and strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise emphasizing quad development and core strength. Excellent for building leg strength while maintaining an upright posture.",
+    "directions": [
+      "Rest bar on front deltoids and collarbone",
+      "Elbows high, upper arms parallel to floor",
+      "Break at knees and hips simultaneously",
+      "Keep torso upright throughout movement",
+      "Descend until thighs are parallel or below",
+      "Drive through mid-foot to stand"
+    ],
+    "cues": [
+      "Elbows high",
+      "Chest up",
+      "Knees forward and out",
+      "Stay upright",
+      "Core tight"
+    ],
     "image": "front-squat",
     "videoId": "",
     "bodyPart": "legs",
@@ -1251,9 +1965,22 @@
   {
     "id": "68",
     "name": "Hack Squat",
-    "description": "Heavy compound exercise that targets the quads. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Machine compound exercise targeting the quads. Great for building leg size and strength with reduced lower back stress.",
+    "directions": [
+      "Position shoulders and back against pads",
+      "Feet shoulder width on platform",
+      "Unlock machine and control descent",
+      "Lower until thighs are parallel or below",
+      "Drive through feet to return to start",
+      "Keep back pressed against pad"
+    ],
+    "cues": [
+      "Back against pad",
+      "Chest up",
+      "Control the descent",
+      "Drive through full foot",
+      "Keep knees in line with toes"
+    ],
     "image": "hack-squat",
     "videoId": "BilKn8XLjX8",
     "bodyPart": "legs",
@@ -1269,14 +1996,27 @@
   {
     "id": "69",
     "name": "Pendulum Squat",
-    "description": "Heavy compound exercise that targets the quads. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Machine compound exercise targeting the quads with unique pendulum motion. Excellent for building leg size and strength with reduced spinal compression.",
+    "directions": [
+      "Position yourself on the machine with shoulders under pads",
+      "Place feet shoulder-width apart on platform",
+      "Unlock the mechanism and control the descent",
+      "Lower until thighs are parallel or below",
+      "Drive through feet to return to start",
+      "Keep back against pad throughout"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Control the descent",
+      "Drive through full foot",
+      "Maintain back contact",
+      "Feel quad engagement"
+    ],
     "image": "pendulum-squat",
     "videoId": "",
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": ["glutes", "erector spinae", "adductors"],
+    "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
@@ -1287,9 +2027,22 @@
   {
     "id": "70",
     "name": "Leg Extension",
-    "description": "Light isolation exercise that targets the quads. Great for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the quadriceps. Excellent for building definition and peak contraction in the quads.",
+    "directions": [
+      "Sit on machine with back against pad",
+      "Hook feet under ankle pad",
+      "Extend legs until completely straight",
+      "Squeeze quads at top of movement",
+      "Lower weight with control",
+      "Keep back against pad throughout"
+    ],
+    "cues": [
+      "Squeeze quads hard at top",
+      "Control the negative",
+      "Keep back against pad",
+      "Point toes slightly outward",
+      "Focus on quad contraction"
+    ],
     "image": "leg-extension",
     "videoId": "",
     "bodyPart": "legs",
@@ -1297,7 +2050,7 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 10,
+    "repsLow": 12,
     "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
@@ -1305,9 +2058,22 @@
   {
     "id": "71",
     "name": "Hip Adductor Machine",
-    "description": "Light isolation exercise that targets the inner thighs. Good for building size in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the inner thigh muscles. Important for lower body stability and aesthetic development.",
+    "directions": [
+      "Sit on machine with back against pad",
+      "Place legs on pads with knees bent",
+      "Start with legs spread apart",
+      "Squeeze legs together",
+      "Control the return to starting position",
+      "Maintain good posture throughout"
+    ],
+    "cues": [
+      "Keep back against pad",
+      "Control both directions",
+      "Focus on inner thigh squeeze",
+      "Don't rush the movement",
+      "Maintain steady breathing"
+    ],
     "image": "hip-adductor-machine",
     "videoId": "",
     "bodyPart": "legs",
@@ -1323,14 +2089,27 @@
   {
     "id": "72",
     "name": "Hip Abduction Machine",
-    "description": "Light isolation exercise that targets the glutes. Good for building size in the glutes.",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the outer hip and glute muscles. Essential for hip stability and glute development.",
+    "directions": [
+      "Sit on machine with back against pad",
+      "Place legs on pads with knees bent",
+      "Start with legs together",
+      "Push legs apart against resistance",
+      "Control the return to starting position",
+      "Keep core engaged throughout"
+    ],
+    "cues": [
+      "Push through your heels",
+      "Keep back against pad",
+      "Control both directions",
+      "Focus on glute engagement",
+      "Maintain good posture"
+    ],
     "image": "hip-abduction-machine",
     "videoId": "",
     "bodyPart": "legs",
     "primaryGroup": "abductors",
-    "secondaryGroups": [],
+    "secondaryGroups": ["glutes"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
@@ -1341,9 +2120,22 @@
   {
     "id": "73",
     "name": "Leg Press",
-    "description": "Heavy compound exercise that targets the quads, hamstrings, and glutes depending on your execution of it. Great for building size and strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise targeting the entire lower body. Great for building overall leg strength and size with reduced spinal loading.",
+    "directions": [
+      "Sit in machine with back against pad",
+      "Place feet shoulder-width apart on platform",
+      "Lower weight by bending knees toward chest",
+      "Press weight back up without locking knees",
+      "Control the descent on next rep",
+      "Keep back pressed against pad"
+    ],
+    "cues": [
+      "Keep lower back against pad",
+      "Don't lock knees at top",
+      "Control the negative",
+      "Push through whole foot",
+      "Maintain controlled breathing"
+    ],
     "image": "leg-press",
     "videoId": "ffyzO1Ak26A",
     "bodyPart": "legs",
@@ -1359,9 +2151,22 @@
   {
     "id": "74",
     "name": "Barbell Lunge",
-    "description": "Heavy compound exercise that targets the quads, hamstrings, and glutes. Great for building size and strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Heavy compound exercise targeting the quads, glutes, and hamstrings. Excellent for building unilateral strength and balance.",
+    "directions": [
+      "Hold barbell across upper back",
+      "Step forward with one leg into lunge position",
+      "Lower until both knees are bent at 90 degrees",
+      "Push through front foot to return to start",
+      "Alternate legs with each rep",
+      "Maintain upright posture throughout"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Control the descent",
+      "Front knee tracks over toe",
+      "Push through front heel",
+      "Maintain steady pace"
+    ],
     "image": "barbell-lunge",
     "videoId": "",
     "bodyPart": "legs",
@@ -1377,9 +2182,22 @@
   {
     "id": "75",
     "name": "Jefferson Deadlift",
-    "description": "Heavy compound exercise that targets the hamstrings, adductors, and glutes. Decent for building strength in the legs.",
-    "directions": [],
-    "cues": [],
+    "description": "Unique compound exercise targeting the legs asymmetrically. Great for developing hip mobility and overall leg strength.",
+    "directions": [
+      "Stand with barbell between legs at diagonal",
+      "Bend down and grab bar with mixed grip",
+      "Keep chest up and back straight",
+      "Drive through both legs to stand",
+      "Return bar to ground with control",
+      "Alternate stance between sets"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Drive through both legs evenly",
+      "Maintain neutral spine",
+      "Control the descent",
+      "Keep bar close to body"
+    ],
     "image": "jefferson-deadlift",
     "videoId": "",
     "bodyPart": "legs",
@@ -1395,9 +2213,22 @@
   {
     "id": "76",
     "name": "Dumbbell Bench Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the chest, front deltoids, and triceps. Great for building balanced strength and muscle mass.",
+    "directions": [
+      "Lie on flat bench with dumbbells at chest level",
+      "Press dumbbells straight up until arms are extended",
+      "Lower weights with control to sides of chest",
+      "Keep slight bend in elbows at bottom",
+      "Press back up to starting position",
+      "Maintain stable shoulder position"
+    ],
+    "cues": [
+      "Keep wrists straight",
+      "Drive through chest",
+      "Control the descent",
+      "Keep shoulders down",
+      "Maintain arch in back"
+    ],
     "image": "dumbbell-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -1413,9 +2244,22 @@
   {
     "id": "77",
     "name": "Incline Dumbbell Bench Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the upper chest, front deltoids, and triceps. Excellent for developing upper chest fullness.",
+    "directions": [
+      "Lie on incline bench set to 30-45 degrees",
+      "Hold dumbbells at chest level",
+      "Press weights up and slightly back",
+      "Lower dumbbells with control to chest",
+      "Keep elbows at 45-degree angle",
+      "Press back up to starting position"
+    ],
+    "cues": [
+      "Keep back against bench",
+      "Drive through chest",
+      "Control the weights",
+      "Maintain stable shoulders",
+      "Focus on upper chest"
+    ],
     "image": "incline-dumbbell-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -1431,9 +2275,22 @@
   {
     "id": "78",
     "name": "Machine Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the back muscles. Great for building back thickness with reduced stabilization requirements.",
+    "directions": [
+      "Sit at machine with chest against pad",
+      "Grab handles with palms facing in",
+      "Pull handles toward lower chest",
+      "Squeeze shoulder blades together",
+      "Return to start position with control",
+      "Maintain good posture throughout"
+    ],
+    "cues": [
+      "Keep chest against pad",
+      "Drive elbows back",
+      "Squeeze shoulder blades",
+      "Control the negative",
+      "Focus on back contraction"
+    ],
     "image": "machine-row",
     "videoId": "",
     "bodyPart": "back",
@@ -1449,9 +2306,22 @@
   {
     "id": "79",
     "name": "Dumbbell Pullover",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the lats and chest. Excellent for developing upper body width and serratus anterior.",
+    "directions": [
+      "Lie across bench with upper back supported",
+      "Hold dumbbell overhead with straight arms",
+      "Lower weight behind head in arc motion",
+      "Keep slight bend in elbows throughout",
+      "Return to starting position",
+      "Maintain control of the weight"
+    ],
+    "cues": [
+      "Keep arms slightly bent",
+      "Control the stretch",
+      "Maintain stable shoulders",
+      "Focus on lat engagement",
+      "Keep hips down"
+    ],
     "image": "dumbbell-pullover",
     "videoId": "JM9DiZRsMJA",
     "bodyPart": "back",
@@ -1467,9 +2337,22 @@
   {
     "id": "80",
     "name": "Cable Pullover",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the lats. Great for developing mind-muscle connection and maintaining constant tension.",
+    "directions": [
+      "Stand facing away from high cable",
+      "Grab cable attachment with both hands",
+      "Keep slight bend in elbows",
+      "Pull cable down and forward in arc",
+      "Feel stretch in lats at top",
+      "Control return to start position"
+    ],
+    "cues": [
+      "Keep arms slightly bent",
+      "Lead with elbows",
+      "Control the movement",
+      "Feel lat stretch",
+      "Maintain stable core"
+    ],
     "image": "cable-pullover",
     "videoId": "zd1Gx6ieLao",
     "bodyPart": "back",
@@ -1485,9 +2368,22 @@
   {
     "id": "81",
     "name": "Seated Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the soleus muscle. Essential for complete lower leg development.",
+    "directions": [
+      "Sit on machine with knees bent at 90 degrees",
+      "Place balls of feet on platform",
+      "Lower heels as far as possible",
+      "Push through balls of feet to raise heels",
+      "Hold contraction at top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Full range of motion",
+      "Pause at bottom stretch",
+      "Squeeze at top",
+      "Control the descent",
+      "Keep knees bent"
+    ],
     "image": "seated-calf-raise",
     "videoId": "A0qzegahbsk",
     "bodyPart": "calves",
@@ -1503,9 +2399,22 @@
   {
     "id": "82",
     "name": "Standing Bodyweight Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Basic isolation exercise targeting the gastrocnemius. Great for building endurance and mind-muscle connection.",
+    "directions": [
+      "Stand on edge of step or platform",
+      "Let heels hang off edge",
+      "Lower heels below platform level",
+      "Push through balls of feet to raise up",
+      "Hold contraction at top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Full range of motion",
+      "Balance and control",
+      "Squeeze at top",
+      "Feel the stretch",
+      "Keep legs straight"
+    ],
     "image": "standing-bodyweight-calf-raise",
     "videoId": "",
     "bodyPart": "calves",
@@ -1521,9 +2430,22 @@
   {
     "id": "83",
     "name": "Standing Machine Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the gastrocnemius. Excellent for building calf strength and size.",
+    "directions": [
+      "Position shoulders under pads",
+      "Stand on platform with balls of feet",
+      "Lower heels toward ground",
+      "Push through balls of feet to raise up",
+      "Hold peak contraction",
+      "Lower with control"
+    ],
+    "cues": [
+      "Full range of motion",
+      "Squeeze at top",
+      "Control the descent",
+      "Keep legs straight",
+      "Maintain balance"
+    ],
     "image": "standing-machine-calf-raise",
     "videoId": "",
     "bodyPart": "calves",
@@ -1539,9 +2461,22 @@
   {
     "id": "84",
     "name": "Leg Press Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the calves using the leg press machine. Great for overloading the calves safely.",
+    "directions": [
+      "Sit in leg press with feet on lower platform",
+      "Place only balls of feet on edge",
+      "Lower heels as far as possible",
+      "Push through balls of feet",
+      "Hold contraction at top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Full range of motion",
+      "Keep ankles stable",
+      "Squeeze at top",
+      "Control the descent",
+      "Focus on calf contraction"
+    ],
     "image": "leg-press-calf-raise",
     "videoId": "",
     "bodyPart": "calves",
@@ -1557,9 +2492,22 @@
   {
     "id": "85",
     "name": "Donkey Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the gastrocnemius. Excellent for developing peak contraction in the calves.",
+    "directions": [
+      "Bend over and rest upper body on platform",
+      "Place balls of feet on raised surface",
+      "Lower heels toward ground",
+      "Push through balls of feet",
+      "Hold peak contraction",
+      "Lower with control"
+    ],
+    "cues": [
+      "Full range of motion",
+      "Keep legs straight",
+      "Squeeze at top",
+      "Control the descent",
+      "Maintain position"
+    ],
     "image": "donkey-calf-raise",
     "videoId": "",
     "bodyPart": "calves",
@@ -1575,9 +2523,22 @@
   {
     "id": "86",
     "name": "Single Arm Cable Overhead Extension",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the triceps. Great for developing individual arm strength and muscle definition.",
+    "directions": [
+      "Stand facing away from high cable",
+      "Grab handle with one hand overhead",
+      "Keep upper arm by ear",
+      "Extend arm fully overhead",
+      "Lower with control",
+      "Complete all reps before switching sides"
+    ],
+    "cues": [
+      "Keep upper arm still",
+      "Focus on tricep",
+      "Control the negative",
+      "Full extension",
+      "Maintain posture"
+    ],
     "image": "single-arm-cable-overhead-extension",
     "videoId": "4NgvFSRHRYc",
     "bodyPart": "arms",
@@ -1593,9 +2554,22 @@
   {
     "id": "87",
     "name": "Single Arm Dumbbell Overhead Extension",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the triceps. Excellent for developing individual arm strength and control.",
+    "directions": [
+      "Stand or sit with dumbbell held overhead",
+      "Keep upper arm by ear",
+      "Lower weight behind head",
+      "Extend arm back up",
+      "Keep upper arm stationary",
+      "Complete all reps before switching sides"
+    ],
+    "cues": [
+      "Keep upper arm vertical",
+      "Control the weight",
+      "Full extension",
+      "Focus on tricep",
+      "Maintain posture"
+    ],
     "image": "single-arm-dumbbell-overhead-extension",
     "videoId": "",
     "bodyPart": "arms",
@@ -1611,9 +2585,22 @@
   {
     "id": "88",
     "name": "Cable Lateral Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the lateral deltoids. Great for developing shoulder width with constant tension.",
+    "directions": [
+      "Stand sideways to low cable",
+      "Grab handle with outside hand",
+      "Keep slight bend in elbow",
+      "Raise arm out to side to shoulder level",
+      "Lower with control",
+      "Complete all reps before switching sides"
+    ],
+    "cues": [
+      "Lead with elbow",
+      "Control the movement",
+      "Keep arm straight",
+      "Don't swing",
+      "Maintain posture"
+    ],
     "image": "cable-lateral-raise",
     "videoId": "EmjOvD_6mBo",
     "bodyPart": "shoulders",
@@ -1629,9 +2616,22 @@
   {
     "id": "89",
     "name": "Cable Rear Delt Fly",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Isolation exercise targeting the rear deltoids. Excellent for developing shoulder balance and posture.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grab handles with arms crossed",
+      "Bend slightly at hips",
+      "Pull handles out to sides",
+      "Squeeze rear delts at peak",
+      "Return with control"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Lead with elbows",
+      "Control the movement",
+      "Squeeze at peak",
+      "Maintain position"
+    ],
     "image": "cable-rear-delt-fly",
     "videoId": "Bo34-yz_Zno",
     "bodyPart": "shoulders",
@@ -1647,9 +2647,22 @@
   {
     "id": "90",
     "name": "Smith Machine Squat",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Compound exercise targeting the entire lower body. Great for building leg strength with reduced stabilization requirements.",
+    "directions": [
+      "Position bar on upper back",
+      "Stand with feet shoulder-width apart",
+      "Unrack bar and step back slightly",
+      "Lower into squat position",
+      "Drive through heels to stand",
+      "Keep chest up throughout"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Control the descent",
+      "Drive through heels",
+      "Knees track over toes",
+      "Maintain bar path"
+    ],
     "image": "smith-machine-squat",
     "videoId": "",
     "bodyPart": "legs",
@@ -2578,25 +3591,141 @@
   {
     "id": "151",
     "name": "Treadmill",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Cardiovascular exercise that involves walking or running on a moving belt. Great for building endurance and burning calories.",
+    "directions": [
+      "Step onto the treadmill and clip the safety key to your clothing",
+      "Start at a comfortable walking pace",
+      "Gradually increase speed to desired level",
+      "Maintain good posture throughout",
+      "Use the handles only when necessary"
+    ],
+    "cues": [
+      "Keep your head up",
+      "Land mid-foot",
+      "Maintain a natural arm swing",
+      "Stay in the center of the belt"
+    ],
     "image": "treadmill",
     "videoId": "",
-    "bodyPart": "legs",
+    "bodyPart": "cardio",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": []
+    "secondaryGroups": ["hamstrings", "calves"],
+    "exerciseType": "compound",
+    "equipmentType": "machine",
+    "repsLow": 10,
+    "repsHigh": 60,
+    "unitsOne": "time",
+    "unitsTwo": "distance"
   },
   {
     "id": "152",
     "name": "Bike",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "Low-impact cardiovascular exercise that targets the lower body. Great for building endurance while being gentle on the joints.",
+    "directions": [
+      "Adjust the seat height so your leg is slightly bent at the bottom of the pedal stroke",
+      "Start pedaling at a comfortable pace",
+      "Maintain good posture throughout",
+      "Adjust resistance as needed"
+    ],
+    "cues": [
+      "Keep your core engaged",
+      "Don't bounce in the seat",
+      "Maintain a steady rhythm",
+      "Keep your feet flat on the pedals"
+    ],
     "image": "bike",
     "videoId": "QwMjLKUd_CI",
-    "bodyPart": "legs",
+    "bodyPart": "cardio",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": []
+    "secondaryGroups": ["hamstrings", "calves"],
+    "exerciseType": "compound",
+    "equipmentType": "machine",
+    "repsLow": 10,
+    "repsHigh": 60,
+    "unitsOne": "time",
+    "unitsTwo": "distance"
+  },
+  {
+    "id": "153",
+    "name": "Elliptical",
+    "description": "Low-impact cardio exercise that targets the full body. Great for building cardiovascular endurance.",
+    "directions": [
+      "Step onto the elliptical and grab the handles",
+      "Start pedaling in a smooth, controlled motion",
+      "Keep your core engaged and maintain good posture",
+      "Push and pull the handles in coordination with your leg movements"
+    ],
+    "cues": [
+      "Maintain an upright posture",
+      "Keep movements smooth and controlled",
+      "Engage your core"
+    ],
+    "image": "elliptical",
+    "videoId": "",
+    "bodyPart": "cardio",
+    "primaryGroup": "quadriceps",
+    "secondaryGroups": ["hamstrings", "glutes", "calves"],
+    "exerciseType": "compound",
+    "equipmentType": "machine",
+    "repsLow": 10,
+    "repsHigh": 60,
+    "unitsOne": "time",
+    "unitsTwo": "distance"
+  },
+  {
+    "id": "154",
+    "name": "Reverse Crunch",
+    "description": "Isolation exercise targeting the lower abs. Good for building core strength and definition.",
+    "directions": [
+      "Lie on your back with your legs raised and knees bent at 90 degrees",
+      "Place your arms flat on the ground by your sides",
+      "Using your lower abs, lift your hips off the ground and bring your knees toward your chest",
+      "Lower back down with control",
+      "Repeat for desired reps"
+    ],
+    "cues": [
+      "Focus on using your lower abs to initiate the movement",
+      "Keep your lower back pressed against the ground",
+      "Control the descent"
+    ],
+    "image": "reverse-crunch",
+    "videoId": "",
+    "bodyPart": "abs",
+    "primaryGroup": "abs",
+    "secondaryGroups": [],
+    "exerciseType": "isolation",
+    "equipmentType": "bodyweight",
+    "repsLow": 12,
+    "repsHigh": 20,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
+  },
+  {
+    "id": "155",
+    "name": "Plank",
+    "description": "Isometric exercise that targets the core. Excellent for building core stability and endurance.",
+    "directions": [
+      "Get into a push-up position with your forearms on the ground",
+      "Keep your body in a straight line from head to heels",
+      "Hold this position while maintaining proper form",
+      "Hold for desired duration"
+    ],
+    "cues": [
+      "Keep your core tight",
+      "Don't let your hips sag",
+      "Maintain neutral spine position",
+      "Breathe steadily"
+    ],
+    "image": "plank",
+    "videoId": "",
+    "bodyPart": "abs",
+    "primaryGroup": "abs",
+    "secondaryGroups": ["shoulders", "back"],
+    "exerciseType": "isolation",
+    "equipmentType": "bodyweight",
+    "repsLow": 30,
+    "repsHigh": 120,
+    "unitsOne": "time",
+    "unitsTwo": "weight"
   }
 ]
