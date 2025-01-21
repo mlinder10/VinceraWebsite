@@ -2678,9 +2678,22 @@
   {
     "id": "91",
     "name": "Smith Machine Calf Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A machine-based exercise that targets the calves by performing standing heel raises using the Smith machine bar for resistance and balance.",
+    "directions": [
+      "Position yourself under the Smith machine bar with the balls of your feet on an elevated platform",
+      "Place the bar across your upper back/shoulders",
+      "Stand tall with your feet hip-width apart",
+      "Lower your heels toward the ground",
+      "Push through the balls of your feet to raise your heels as high as possible",
+      "Pause briefly at the top",
+      "Lower back down under control"
+    ],
+    "cues": [
+      "Push through the balls of your feet",
+      "Keep your legs straight but not locked",
+      "Control the movement throughout",
+      "Achieve full range of motion"
+    ],
     "image": "smith-machine-calf-raise",
     "videoId": "",
     "bodyPart": "legs",
@@ -2696,9 +2709,21 @@
   {
     "id": "92",
     "name": "Smith Machine Bench Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A machine-based variation of the bench press that targets the chest muscles using a fixed barbell path for enhanced stability and safety.",
+    "directions": [
+      "Lie on the bench with your eyes under the bar",
+      "Grip the bar slightly wider than shoulder-width",
+      "Unrack the bar and lower it to your mid-chest",
+      "Press the bar back up to the starting position",
+      "Maintain control throughout the movement"
+    ],
+    "cues": [
+      "Keep your back flat on the bench",
+      "Drive your feet into the ground",
+      "Maintain a controlled bar path",
+      "Keep your wrists straight",
+      "Breathe out on exertion"
+    ],
     "image": "smith-machine-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -2714,9 +2739,21 @@
   {
     "id": "93",
     "name": "Smith Machine Incline Bench Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An upper chest-focused pressing movement performed on an incline bench using the Smith machine for added stability.",
+    "directions": [
+      "Set the bench to a 30-45 degree angle",
+      "Lie on the incline bench with your eyes under the bar",
+      "Grip the bar slightly wider than shoulder-width",
+      "Unrack the bar and lower it to your upper chest",
+      "Press the bar back up to the starting position"
+    ],
+    "cues": [
+      "Keep your back against the bench",
+      "Drive your feet into the ground",
+      "Control the bar path",
+      "Keep your core tight",
+      "Focus on the upper chest contraction"
+    ],
     "image": "smith-machine-incline-bench-press",
     "videoId": "",
     "bodyPart": "chest",
@@ -2732,14 +2769,26 @@
   {
     "id": "94",
     "name": "Smith Machine Shoulder Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A vertical pressing movement using the Smith machine that primarily targets the shoulder muscles with fixed bar path for stability.",
+    "directions": [
+      "Sit on the bench with your back supported",
+      "Grip the bar at shoulder width",
+      "Start with the bar at shoulder level",
+      "Press the bar overhead until arms are extended",
+      "Lower the bar back to shoulder level under control"
+    ],
+    "cues": [
+      "Keep your core tight",
+      "Maintain neutral spine",
+      "Press directly overhead",
+      "Don't lock out elbows at the top",
+      "Control the descent"
+    ],
     "image": "smith-machine-shoulder-press",
     "videoId": "",
     "bodyPart": "shoulders",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": ["side deltoids", "trapezius", "pectorals", "triceps"],
+    "secondaryGroups": ["side deltoids", "trapezius"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
@@ -2750,9 +2799,21 @@
   {
     "id": "95",
     "name": "Dumbbell Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A back exercise performed with dumbbells that targets the latissimus dorsi and upper back muscles through a pulling motion.",
+    "directions": [
+      "Hinge at your hips with a flat back",
+      "Hold dumbbells with arms fully extended",
+      "Pull the dumbbells to your hip level",
+      "Squeeze your back muscles at the top",
+      "Lower the weights with control"
+    ],
+    "cues": [
+      "Keep your back flat",
+      "Lead with your elbows",
+      "Squeeze your shoulder blades together",
+      "Control the descent",
+      "Maintain a stable core"
+    ],
     "image": "dumbbell-row",
     "videoId": "gHHsFrOOmPM",
     "bodyPart": "back",
@@ -2768,9 +2829,21 @@
   {
     "id": "96",
     "name": "Single Arm Dumbbell Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An unilateral back exercise that allows for greater range of motion and core engagement while targeting the lats and upper back.",
+    "directions": [
+      "Place one knee and hand on a bench",
+      "Hold a dumbbell in your free hand",
+      "Keep your back parallel to the ground",
+      "Pull the dumbbell to your hip",
+      "Lower the weight with control"
+    ],
+    "cues": [
+      "Keep your spine neutral",
+      "Pull through your back, not your arm",
+      "Control the weight throughout",
+      "Keep your core engaged",
+      "Avoid rotation"
+    ],
     "image": "single-arm-dumbbell-row",
     "videoId": "tFRpKb39Arg",
     "bodyPart": "back",
@@ -2786,9 +2859,21 @@
   {
     "id": "97",
     "name": "Assisted Dip",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A machine-assisted version of the dip exercise that helps build chest and triceps strength while providing counterbalance support.",
+    "directions": [
+      "Adjust the assist weight appropriately",
+      "Grasp the parallel bars firmly",
+      "Keep your chest up and core tight",
+      "Lower your body until your upper arms are parallel to the ground",
+      "Push back up to the starting position"
+    ],
+    "cues": [
+      "Keep your elbows close to your body",
+      "Maintain an upright posture",
+      "Control the descent",
+      "Lock out at the top",
+      "Keep your shoulders down"
+    ],
     "image": "assisted-dip",
     "videoId": "3qWf4jQ2eYU",
     "bodyPart": "triceps",
@@ -2804,9 +2889,21 @@
   {
     "id": "98",
     "name": "Assisted Pull Up",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A machine-assisted version of the pull-up that helps build back and arm strength while providing counterbalance support.",
+    "directions": [
+      "Adjust the assist weight appropriately",
+      "Grip the bar slightly wider than shoulder-width",
+      "Start with arms fully extended",
+      "Pull yourself up until your chin clears the bar",
+      "Lower back down with control"
+    ],
+    "cues": [
+      "Engage your lats before pulling",
+      "Lead with your chest",
+      "Keep your core tight",
+      "Control the descent",
+      "Maintain proper shoulder position"
+    ],
     "image": "assisted-pull-up",
     "videoId": "V5hZQzvJm-A",
     "bodyPart": "back",
@@ -2822,9 +2919,21 @@
   {
     "id": "99",
     "name": "Dumbbell Bulgarian Split Squat",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral lower body exercise that targets the quadriceps, glutes, and hip flexors while improving balance and stability.",
+    "directions": [
+      "Place your back foot on a bench behind you",
+      "Hold dumbbells at your sides",
+      "Keep your front foot flat on the ground",
+      "Lower your back knee toward the ground",
+      "Push through your front foot to return to the start"
+    ],
+    "cues": [
+      "Keep your torso upright",
+      "Control the descent",
+      "Keep your front knee aligned with your toes",
+      "Push through your heel",
+      "Maintain balance throughout"
+    ],
     "image": "dumbbell-bulgarian-split-squat",
     "videoId": "",
     "bodyPart": "legs",
@@ -2840,9 +2949,21 @@
   {
     "id": "100",
     "name": "Dumbbell Lunge",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A dynamic lower body exercise that targets the legs and glutes while improving balance and coordination.",
+    "directions": [
+      "Stand with dumbbells at your sides",
+      "Take a step forward with one leg",
+      "Lower your back knee toward the ground",
+      "Push off your front foot to return to start",
+      "Alternate legs with each rep"
+    ],
+    "cues": [
+      "Keep your torso upright",
+      "Step far enough forward",
+      "Keep your front knee aligned with your toes",
+      "Push through your heel",
+      "Control the movement"
+    ],
     "image": "dumbbell-lunge",
     "videoId": "tSDdtNlfQ1M",
     "bodyPart": "legs",
@@ -2858,9 +2979,21 @@
   {
     "id": "101",
     "name": "Glute Ham Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A challenging posterior chain exercise that targets the glutes and hamstrings through a controlled hip extension movement.",
+    "directions": [
+      "Position yourself in the GHR machine with your ankles secured",
+      "Start with your torso upright and core engaged",
+      "Lower your torso forward while keeping your hips extended",
+      "Use your glutes and hamstrings to raise your torso back up",
+      "Maintain control throughout the movement"
+    ],
+    "cues": [
+      "Keep your core tight",
+      "Control the descent",
+      "Drive through your heels",
+      "Squeeze glutes at the top",
+      "Maintain neutral spine"
+    ],
     "image": "glute-ham-raise",
     "videoId": "",
     "bodyPart": "legs",
@@ -2876,9 +3009,21 @@
   {
     "id": "102",
     "name": "Preacher Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise that targets the biceps while eliminating momentum by supporting the upper arms on an angled pad.",
+    "directions": [
+      "Adjust the preacher bench to your height",
+      "Rest your armpits on the top of the pad",
+      "Grasp the barbell with an underhand grip",
+      "Lower the weight with control",
+      "Curl the weight up using your biceps"
+    ],
+    "cues": [
+      "Keep upper arms in contact with pad",
+      "Full range of motion",
+      "Control the negative",
+      "Squeeze biceps at the top",
+      "Keep wrists straight"
+    ],
     "image": "preacher-curl",
     "videoId": "gemrQIEIHxE",
     "bodyPart": "arms",
@@ -2894,9 +3039,21 @@
   {
     "id": "103",
     "name": "Reverse Grip Barbell Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A variation of the barbell curl using a pronated grip to emphasize forearm development while still targeting the biceps.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Grip the barbell with palms facing down",
+      "Keep elbows close to your sides",
+      "Curl the weight up toward your shoulders",
+      "Lower the weight with control"
+    ],
+    "cues": [
+      "Keep elbows still",
+      "Control the movement",
+      "Squeeze at the top",
+      "Full range of motion",
+      "Maintain straight wrists"
+    ],
     "image": "reverse-grip-barbell-curl",
     "videoId": "zC4YxsSGR4A",
     "bodyPart": "arms",
@@ -2912,9 +3069,21 @@
   {
     "id": "104",
     "name": "Single Arm Lat Pulldown",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral back exercise that allows for greater range of motion and helps identify and correct muscle imbalances.",
+    "directions": [
+      "Sit facing the machine with feet flat",
+      "Grasp the handle with one hand",
+      "Lean back slightly with chest up",
+      "Pull the handle down to your shoulder",
+      "Control the return to starting position"
+    ],
+    "cues": [
+      "Engage your lats before pulling",
+      "Keep chest proud",
+      "Control the movement",
+      "Full range of motion",
+      "Maintain neutral spine"
+    ],
     "image": "single-arm-lat-pulldown",
     "videoId": "IhOXwLzUxII",
     "bodyPart": "back",
@@ -2930,9 +3099,21 @@
   {
     "id": "105",
     "name": "Dip",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A bodyweight exercise that primarily targets the triceps and chest muscles through a pressing movement.",
+    "directions": [
+      "Grip parallel bars with arms straight",
+      "Keep chest up and core engaged",
+      "Lower your body until upper arms are parallel to ground",
+      "Push yourself back up to starting position",
+      "Maintain control throughout"
+    ],
+    "cues": [
+      "Keep elbows close to body",
+      "Control the descent",
+      "Lock out at top",
+      "Maintain shoulder position",
+      "Keep core tight"
+    ],
     "image": "dip",
     "videoId": "UYkG0nK_MXI",
     "bodyPart": "arms",
@@ -2947,10 +3128,22 @@
   },
   {
     "id": "106",
-    "name": "Chest Supported Dumbbel Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "name": "Chest Supported Dumbbell Row",
+    "description": "A back exercise performed on an incline bench that provides stability and isolates the back muscles by eliminating momentum.",
+    "directions": [
+      "Lie face down on an incline bench",
+      "Let arms hang straight down with dumbbells",
+      "Pull dumbbells up toward your lower chest",
+      "Squeeze shoulder blades together",
+      "Lower weights with control"
+    ],
+    "cues": [
+      "Keep chest against pad",
+      "Lead with elbows",
+      "Squeeze shoulder blades",
+      "Control the descent",
+      "Maintain neutral spine"
+    ],
     "image": "chest-supported-dumbbell-row",
     "videoId": "",
     "bodyPart": "back",
@@ -2966,9 +3159,21 @@
   {
     "id": "107",
     "name": "Incline Chest Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A machine-based pressing movement that targets the upper chest muscles with a fixed path of motion for stability.",
+    "directions": [
+      "Adjust seat height appropriately",
+      "Grip handles at chest level",
+      "Press the weight forward and up",
+      "Control the return to start position",
+      "Keep back against pad throughout"
+    ],
+    "cues": [
+      "Keep back against pad",
+      "Drive through your chest",
+      "Control the movement",
+      "Full range of motion",
+      "Maintain shoulder position"
+    ],
     "image": "incline-chest-press",
     "videoId": "-X0p3eCb7xs",
     "bodyPart": "chest",
@@ -2984,9 +3189,21 @@
   {
     "id": "108",
     "name": "Barbell Shoulder Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A compound exercise that targets the entire shoulder complex through a vertical pressing movement.",
+    "directions": [
+      "Position barbell at upper chest/shoulder level",
+      "Grip slightly wider than shoulder width",
+      "Press the bar overhead until arms are extended",
+      "Lower the bar back to shoulders with control",
+      "Maintain stable core throughout"
+    ],
+    "cues": [
+      "Keep core tight",
+      "Press straight up",
+      "Control the descent",
+      "Keep chest up",
+      "Breathe out on exertion"
+    ],
     "image": "barbell-shoulder-press",
     "videoId": "NPDMIcDFtKA",
     "bodyPart": "shoulders",
@@ -3002,9 +3219,21 @@
   {
     "id": "109",
     "name": "Seated Dumbbell Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise for the biceps performed from a seated position to minimize body momentum and focus on proper form.",
+    "directions": [
+      "Sit with back supported and feet flat",
+      "Hold dumbbells at your sides",
+      "Curl weights toward shoulders",
+      "Lower with control",
+      "Alternate arms or curl simultaneously"
+    ],
+    "cues": [
+      "Keep upper arms still",
+      "Control the movement",
+      "Full range of motion",
+      "Squeeze at the top",
+      "Keep back supported"
+    ],
     "image": "seated-dumbbell-curl",
     "videoId": "ZH5qchEm97E",
     "bodyPart": "arms",
@@ -3020,9 +3249,21 @@
   {
     "id": "110",
     "name": "Spider Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A biceps isolation exercise performed lying face down on an incline bench to maximize peak contraction.",
+    "directions": [
+      "Lie face down on an incline bench",
+      "Let arms hang straight down with dumbbells",
+      "Curl weights toward shoulders",
+      "Squeeze biceps at the top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep upper arms perpendicular",
+      "Minimize swinging",
+      "Full contraction at top",
+      "Control the negative",
+      "Keep elbows still"
+    ],
     "image": "spider-curl",
     "videoId": "PjaDYriOHbs",
     "bodyPart": "arms",
@@ -3038,9 +3279,21 @@
   {
     "id": "111",
     "name": "Single Arm Cable Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral back exercise that allows for natural movement patterns and helps identify muscle imbalances.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grab handle with one hand",
+      "Step back to create tension",
+      "Pull handle to your side",
+      "Control the return"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Squeeze shoulder blade",
+      "Control the movement",
+      "Maintain stable core",
+      "Keep elbow close to body"
+    ],
     "image": "single-arm-cable-row",
     "videoId": "O24sALkxA7g",
     "bodyPart": "back",
@@ -3056,9 +3309,21 @@
   {
     "id": "112",
     "name": "Underhand Lat Pulldown",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A variation of the lat pulldown using a supinated grip to increase biceps engagement while still targeting the back.",
+    "directions": [
+      "Sit facing the machine with feet flat",
+      "Grip the bar with palms facing up",
+      "Lean back slightly with chest up",
+      "Pull the bar down to upper chest",
+      "Control the return to start"
+    ],
+    "cues": [
+      "Engage lats before pulling",
+      "Keep chest proud",
+      "Control the movement",
+      "Full range of motion",
+      "Elbows close to body"
+    ],
     "image": "underhand-lat-pulldown",
     "videoId": "D2_XF4f0UZc",
     "bodyPart": "arms",
@@ -3074,9 +3339,21 @@
   {
     "id": "113",
     "name": "V-Bar Lat Pulldown",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A lat pulldown variation using a V-bar attachment that allows for a neutral grip position and natural movement pattern.",
+    "directions": [
+      "Sit facing machine with feet flat",
+      "Grasp V-bar with neutral grip",
+      "Lean back slightly with chest up",
+      "Pull bar down toward upper chest",
+      "Control return to start position"
+    ],
+    "cues": [
+      "Engage lats first",
+      "Keep chest up",
+      "Drive elbows down",
+      "Control the negative",
+      "Maintain posture"
+    ],
     "image": "v-bar-lat-pulldown",
     "videoId": "BnB5xTI96lY",
     "bodyPart": "back",
@@ -3092,9 +3369,21 @@
   {
     "id": "114",
     "name": "Wide Grip Cable Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A back exercise that emphasizes the upper back muscles through a wide grip position on the cable machine.",
+    "directions": [
+      "Sit at cable row machine",
+      "Grasp wide bar with overhand grip",
+      "Keep chest up and core tight",
+      "Pull handle to lower chest",
+      "Control return to start"
+    ],
+    "cues": [
+      "Keep chest proud",
+      "Squeeze shoulder blades",
+      "Lead with elbows",
+      "Control the negative",
+      "Maintain posture"
+    ],
     "image": "wide-grip-cable-row",
     "videoId": "2KPLf_5symc",
     "bodyPart": "back",
@@ -3110,9 +3399,21 @@
   {
     "id": "115",
     "name": "Sumo Deadlift",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A compound exercise variation that emphasizes the inner thighs and glutes through a wider stance position.",
+    "directions": [
+      "Stand with wide stance, toes pointed out",
+      "Grip bar inside legs",
+      "Keep chest up and back flat",
+      "Drive through heels to stand",
+      "Return bar to ground with control"
+    ],
+    "cues": [
+      "Push knees out",
+      "Keep chest up",
+      "Drive hips forward",
+      "Maintain neutral spine",
+      "Keep bar close to body"
+    ],
     "image": "sumo-deadlift",
     "videoId": "Ko1CSMJDIzk",
     "bodyPart": "legs",
@@ -3135,9 +3436,21 @@
   {
     "id": "116",
     "name": "Dumbbell Upright Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A shoulder exercise that targets the lateral deltoids and upper traps through a vertical pulling motion.",
+    "directions": [
+      "Stand with feet shoulder-width apart",
+      "Hold dumbbells in front of thighs",
+      "Pull dumbbells straight up toward chin",
+      "Keep elbows higher than forearms",
+      "Lower weights with control"
+    ],
+    "cues": [
+      "Lead with elbows",
+      "Keep weights close to body",
+      "Control the descent",
+      "Maintain upright posture",
+      "Keep shoulders down"
+    ],
     "image": "dumbbell-upright-row",
     "videoId": "zG2Ks6Sf8vg",
     "bodyPart": "shoulders",
@@ -3153,9 +3466,21 @@
   {
     "id": "117",
     "name": "Cable Upright Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A shoulder exercise using cables that provides constant tension throughout the movement while targeting the lateral deltoids and traps.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grasp straight bar attachment",
+      "Pull bar straight up toward chin",
+      "Keep elbows higher than forearms",
+      "Lower with control"
+    ],
+    "cues": [
+      "Lead with elbows",
+      "Keep bar close to body",
+      "Control the movement",
+      "Maintain upright posture",
+      "Keep shoulders relaxed"
+    ],
     "image": "cable-upright-row",
     "videoId": "fKEgtCcMf_4",
     "bodyPart": "shoulders",
@@ -3171,9 +3496,21 @@
   {
     "id": "118",
     "name": "Back Extension",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise that targets the lower back muscles and helps develop core stability and spinal erector strength.",
+    "directions": [
+      "Position yourself in the back extension machine",
+      "Cross arms over chest or behind head",
+      "Lower your torso toward the ground",
+      "Raise your torso until body forms a straight line",
+      "Lower back down with control"
+    ],
+    "cues": [
+      "Keep core engaged",
+      "Maintain neutral spine",
+      "Control the movement",
+      "Squeeze glutes at top",
+      "Don't hyperextend"
+    ],
     "image": "back-extension",
     "videoId": "1s9a6IfqvDI",
     "bodyPart": "back",
@@ -3189,9 +3526,21 @@
   {
     "id": "119",
     "name": "Dumbbell Chest Press",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A compound chest exercise that allows for natural movement patterns and helps develop balanced strength.",
+    "directions": [
+      "Lie on bench with feet flat on floor",
+      "Hold dumbbells at chest level",
+      "Press weights straight up",
+      "Lower weights with control",
+      "Keep wrists straight throughout"
+    ],
+    "cues": [
+      "Keep back flat on bench",
+      "Drive through chest",
+      "Control the descent",
+      "Keep core tight",
+      "Maintain neutral wrists"
+    ],
     "image": "dumbbell-chest-press",
     "videoId": "TADDBww-DQs",
     "bodyPart": "chest",
@@ -3207,9 +3556,21 @@
   {
     "id": "120",
     "name": "Incline Dumbbell Tricep Extension",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise that targets the triceps while providing a greater range of motion through an incline position.",
+    "directions": [
+      "Lie on an incline bench",
+      "Hold dumbbells overhead with arms straight",
+      "Lower weights behind head",
+      "Extend arms back to start",
+      "Keep upper arms stationary"
+    ],
+    "cues": [
+      "Keep elbows still",
+      "Control the descent",
+      "Full range of motion",
+      "Squeeze triceps at top",
+      "Maintain neutral wrists"
+    ],
     "image": "incline-dumbbell-tricep-extension",
     "videoId": "pqgZ7fLCZA8",
     "bodyPart": "arms",
@@ -3225,9 +3586,21 @@
   {
     "id": "121",
     "name": "Dumbbell Side Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A biceps variation that emphasizes the outer head of the biceps through a unique curling angle.",
+    "directions": [
+      "Stand with dumbbells at sides",
+      "Keep arms slightly away from body",
+      "Curl weights up and slightly outward",
+      "Squeeze biceps at the top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep elbows stable",
+      "Control the movement",
+      "Feel outer bicep working",
+      "Maintain form throughout",
+      "Don't swing weights"
+    ],
     "image": "dumbbell-side-curl",
     "videoId": "43e4KUZ1p8I",
     "bodyPart": "arms",
@@ -3243,9 +3616,21 @@
   {
     "id": "122",
     "name": "Split Squat",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral leg exercise that develops balance, stability, and strength in the lower body.",
+    "directions": [
+      "Take a long step forward",
+      "Keep torso upright",
+      "Lower back knee toward ground",
+      "Push through front foot to rise",
+      "Maintain split stance throughout set"
+    ],
+    "cues": [
+      "Keep front knee stable",
+      "Maintain upright posture",
+      "Control the descent",
+      "Push through heel",
+      "Keep core engaged"
+    ],
     "image": "split-squat",
     "videoId": "4wNJWdidWls",
     "bodyPart": "legs",
@@ -3255,9 +3640,21 @@
   {
     "id": "123",
     "name": "Rope Overhead Extension",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A triceps isolation exercise using a rope attachment that allows for a natural range of motion and peak contraction.",
+    "directions": [
+      "Face away from cable machine",
+      "Hold rope overhead with elbows pointing up",
+      "Keep upper arms still",
+      "Extend arms to straighten elbows",
+      "Control return to start"
+    ],
+    "cues": [
+      "Keep elbows pointing up",
+      "Squeeze triceps at extension",
+      "Control the negative",
+      "Maintain upper arm position",
+      "Full range of motion"
+    ],
     "image": "rope-overhead-extension",
     "videoId": "NGoBja0Xipk",
     "bodyPart": "arms",
@@ -3267,9 +3664,21 @@
   {
     "id": "124",
     "name": "Cable Rope Curls",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A biceps exercise using a rope attachment that allows for a natural supinating motion during the curl.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grasp rope with palms facing each other",
+      "Keep elbows at sides",
+      "Curl rope toward shoulders",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep elbows still",
+      "Supinate wrists at top",
+      "Control the negative",
+      "Full range of motion",
+      "Squeeze biceps at peak"
+    ],
     "image": "cable-rope-curls",
     "videoId": "X6xYFTsp7No",
     "bodyPart": "arms",
@@ -3279,9 +3688,21 @@
   {
     "id": "125",
     "name": "Hanging Leg Raises",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An advanced core exercise that targets the entire abdominal region while improving grip strength and stability.",
+    "directions": [
+      "Hang from pull-up bar with straight arms",
+      "Keep legs straight",
+      "Raise legs until parallel to ground",
+      "Lower legs with control",
+      "Minimize swinging"
+    ],
+    "cues": [
+      "Keep core tight",
+      "Control the movement",
+      "Avoid swinging",
+      "Maintain straight legs",
+      "Breathe steadily"
+    ],
     "image": "hanging-leg-raises",
     "videoId": "2yfLANXm3_g",
     "bodyPart": "abs",
@@ -3291,9 +3712,21 @@
   {
     "id": "126",
     "name": "Hanging Knee Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A core exercise that targets the lower abs while being more accessible than straight leg raises.",
+    "directions": [
+      "Hang from pull-up bar with straight arms",
+      "Keep core engaged",
+      "Raise knees toward chest",
+      "Lower with control",
+      "Minimize swinging"
+    ],
+    "cues": [
+      "Keep core tight",
+      "Control the descent",
+      "Avoid momentum",
+      "Breathe steadily",
+      "Maintain shoulder position"
+    ],
     "image": "hanging-knee-raise",
     "videoId": "M3LbiHI9CeQ",
     "bodyPart": "abs",
@@ -3303,9 +3736,21 @@
   {
     "id": "127",
     "name": "Candlestick",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A dynamic core exercise that targets the entire abdominal region through a rolling motion.",
+    "directions": [
+      "Lie on back with legs straight up",
+      "Roll hips off ground",
+      "Point toes toward ceiling",
+      "Lower legs over head",
+      "Return to start with control"
+    ],
+    "cues": [
+      "Keep core engaged",
+      "Control the movement",
+      "Roll through spine",
+      "Breathe steadily",
+      "Maintain form"
+    ],
     "image": "candlestick",
     "videoId": "gIWSKvgdS2g",
     "bodyPart": "abs",
@@ -3315,9 +3760,21 @@
   {
     "id": "128",
     "name": "Line Leg Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A core exercise performed on the ground that targets the lower abs through a controlled leg raise movement.",
+    "directions": [
+      "Lie on back with legs straight",
+      "Press lower back into ground",
+      "Raise legs to 90 degrees",
+      "Lower legs with control",
+      "Keep legs straight throughout"
+    ],
+    "cues": [
+      "Keep lower back pressed down",
+      "Control the descent",
+      "Maintain straight legs",
+      "Engage core throughout",
+      "Breathe steadily"
+    ],
     "image": "line-leg-raise",
     "videoId": "6BZ8WCm5I6g",
     "bodyPart": "abs",
@@ -3327,9 +3784,21 @@
   {
     "id": "129",
     "name": "Russian Twist",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A rotational core exercise that targets the obliques and helps develop rotational strength and stability.",
+    "directions": [
+      "Sit with knees bent and feet off ground",
+      "Lean back slightly",
+      "Hold weight at chest level",
+      "Rotate torso side to side",
+      "Touch weight to ground on each side"
+    ],
+    "cues": [
+      "Keep chest up",
+      "Control the rotation",
+      "Maintain elevated feet",
+      "Engage core throughout",
+      "Move from waist"
+    ],
     "image": "russian-twist",
     "videoId": "bV8SH1iHIUA",
     "bodyPart": "abs",
@@ -3339,9 +3808,21 @@
   {
     "id": "130",
     "name": "Crunch",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A basic abdominal exercise that targets the upper abs through spinal flexion.",
+    "directions": [
+      "Lie on back with knees bent",
+      "Place hands behind head",
+      "Lift shoulder blades off ground",
+      "Squeeze abs at top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep lower back pressed down",
+      "Lead with chest",
+      "Don't pull on head",
+      "Control the movement",
+      "Breathe steadily"
+    ],
     "image": "crunch",
     "videoId": "LrHEwDz25qo",
     "bodyPart": "abs",
@@ -3351,9 +3832,21 @@
   {
     "id": "131",
     "name": "Cable Hip Abduction",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the outer hip muscles to improve hip stability and strength.",
+    "directions": [
+      "Stand sideways to cable machine",
+      "Attach ankle cuff to outside leg",
+      "Keep standing leg slightly bent",
+      "Lift working leg out to side",
+      "Control return to start"
+    ],
+    "cues": [
+      "Keep hips level",
+      "Don't lean sideways",
+      "Control the movement",
+      "Maintain upright posture",
+      "Feel outer hip working"
+    ],
     "image": "cable-hip-abduction",
     "videoId": "MXTRsOqn1jI",
     "bodyPart": "",
@@ -3363,9 +3856,21 @@
   {
     "id": "132",
     "name": "Cable Hip Adduction",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the inner thigh muscles to improve hip stability and strength.",
+    "directions": [
+      "Stand sideways to cable machine",
+      "Attach ankle cuff to inside leg",
+      "Keep standing leg slightly bent",
+      "Pull working leg across body",
+      "Control return to start"
+    ],
+    "cues": [
+      "Keep hips level",
+      "Don't lean sideways",
+      "Control the movement",
+      "Maintain upright posture",
+      "Feel inner thigh working"
+    ],
     "image": "cable-hip-adduction",
     "videoId": "UbQX4-JF97U",
     "bodyPart": "",
@@ -3375,9 +3880,21 @@
   {
     "id": "133",
     "name": "Machine Bicep Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise using a machine that provides consistent resistance throughout the bicep curl movement.",
+    "directions": [
+      "Adjust seat height appropriately",
+      "Grasp handles with palms up",
+      "Keep elbows on pad",
+      "Curl weight up",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep elbows still",
+      "Full range of motion",
+      "Control the negative",
+      "Squeeze at the top",
+      "Maintain good posture"
+    ],
     "image": "machine-bicep-curl",
     "videoId": "zDeGKWlLAsI",
     "bodyPart": "arms",
@@ -3387,9 +3904,21 @@
   {
     "id": "134",
     "name": "Bodyweight Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A compound back exercise using your own body weight that helps develop upper body pulling strength.",
+    "directions": [
+      "Position yourself under a bar",
+      "Grip bar with hands wider than shoulders",
+      "Keep body straight",
+      "Pull chest to bar",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep core tight",
+      "Squeeze shoulder blades",
+      "Lead with chest",
+      "Control the descent",
+      "Maintain straight body"
+    ],
     "image": "bodyweight-row",
     "videoId": "YGmmgEYmdMM",
     "bodyPart": "back",
@@ -3399,9 +3928,21 @@
   {
     "id": "135",
     "name": "Cable Wrist Curls",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the forearm flexors using a cable machine for consistent tension.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grasp handle with palm up",
+      "Keep forearm supported and still",
+      "Curl wrist upward",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep forearm still",
+      "Move only at wrist",
+      "Control the movement",
+      "Full range of motion",
+      "Feel forearm working"
+    ],
     "image": "cable-wrist-curls",
     "videoId": "hIMsqrMV03A",
     "bodyPart": "arms",
@@ -3411,9 +3952,21 @@
   {
     "id": "136",
     "name": "Cable Reverse Wrist Curls",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the forearm extensors using a cable machine for consistent tension throughout the movement.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grasp handle with palm down",
+      "Keep forearm supported and still",
+      "Extend wrist upward",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep forearm stable",
+      "Move only at wrist",
+      "Control the movement",
+      "Full range of motion",
+      "Feel forearm extensors working"
+    ],
     "image": "cable-reverse-wrist-curls",
     "videoId": "ZdQttd8JvHI",
     "bodyPart": "arms",
@@ -3423,9 +3976,21 @@
   {
     "id": "137",
     "name": "Cable Crunch",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A core exercise using cable resistance to target the abdominals through a controlled crunching motion.",
+    "directions": [
+      "Kneel facing away from cable machine",
+      "Hold rope attachment behind head",
+      "Keep hips stationary",
+      "Crunch down toward floor",
+      "Control return to start"
+    ],
+    "cues": [
+      "Initiate with abs",
+      "Keep hips still",
+      "Round through spine",
+      "Control the movement",
+      "Maintain tension throughout"
+    ],
     "image": "cable-crunch",
     "videoId": "",
     "bodyPart": "abs",
@@ -3435,9 +4000,21 @@
   {
     "id": "138",
     "name": "Cable Bar Raise",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A shoulder isolation exercise using a cable machine to target the lateral deltoids through a controlled raising motion.",
+    "directions": [
+      "Stand sideways to cable machine",
+      "Grasp bar with outside hand",
+      "Keep slight bend in elbow",
+      "Raise arm out to side",
+      "Lower with control"
+    ],
+    "cues": [
+      "Lead with elbow",
+      "Keep core tight",
+      "Control the movement",
+      "Maintain posture",
+      "Feel side deltoid working"
+    ],
     "image": "cable-bar-raise",
     "videoId": "85_vzLclKz0",
     "bodyPart": "shoulders",
@@ -3447,9 +4024,21 @@
   {
     "id": "139",
     "name": "Single Arm Cable Pushdown",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the triceps using one arm at a time for improved focus and mind-muscle connection.",
+    "directions": [
+      "Stand facing cable machine",
+      "Grasp handle with one hand",
+      "Keep upper arm at side",
+      "Extend arm down fully",
+      "Control return to start"
+    ],
+    "cues": [
+      "Keep elbow tucked",
+      "Squeeze tricep at bottom",
+      "Control the negative",
+      "Full range of motion",
+      "Maintain stable core"
+    ],
     "image": "single-arm-cable-pushdown",
     "videoId": "ntBNw_ADtJo",
     "bodyPart": "arms",
@@ -3459,9 +4048,21 @@
   {
     "id": "140",
     "name": "Dumbbell Wrist Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the forearm flexors using dumbbells for balanced strength development.",
+    "directions": [
+      "Sit with forearms on thighs",
+      "Hold dumbbells with palms up",
+      "Let wrists extend fully",
+      "Curl weights up with wrists",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep forearms still",
+      "Full range of motion",
+      "Control the movement",
+      "Feel forearms working",
+      "Maintain form throughout"
+    ],
     "image": "dumbbell-wrist-curl",
     "videoId": "UCCJ7zwXbRI",
     "bodyPart": "arms",
@@ -3471,9 +4072,21 @@
   {
     "id": "141",
     "name": "Reverse Dumbbell Wrist Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the forearm extensors using dumbbells with a pronated grip.",
+    "directions": [
+      "Sit with forearms on thighs",
+      "Hold dumbbells with palms down",
+      "Let wrists flex fully",
+      "Extend wrists upward",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep forearms stable",
+      "Move only at wrists",
+      "Control the descent",
+      "Full range of motion",
+      "Focus on extensors"
+    ],
     "image": "reverse-dumbbell-wrist-curl",
     "videoId": "58X1dx2RFHk",
     "bodyPart": "arms",
@@ -3483,9 +4096,21 @@
   {
     "id": "142",
     "name": "Goblet Squat",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A compound lower body exercise holding a dumbbell or kettlebell at chest height, great for developing squat form and core strength.",
+    "directions": [
+      "Hold weight at chest height",
+      "Stand with feet shoulder-width apart",
+      "Keep chest up",
+      "Squat down keeping weight centered",
+      "Drive through heels to stand"
+    ],
+    "cues": [
+      "Chest up tall",
+      "Knees track toes",
+      "Keep weight centered",
+      "Maintain upright torso",
+      "Breathe deeply"
+    ],
     "image": "goblet-squat",
     "videoId": "3ib-u2LljXQ",
     "bodyPart": "legs",
@@ -3495,9 +4120,21 @@
   {
     "id": "143",
     "name": "Lunge",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A fundamental lower body exercise that develops unilateral strength, balance, and coordination.",
+    "directions": [
+      "Stand with feet hip-width apart",
+      "Step forward with one leg",
+      "Lower back knee toward ground",
+      "Push through front foot to return",
+      "Alternate legs each rep"
+    ],
+    "cues": [
+      "Keep torso upright",
+      "Front knee tracks toe",
+      "Control the descent",
+      "Push through heel",
+      "Maintain balance"
+    ],
     "image": "lunge",
     "videoId": "Gf5x7A5HFxk",
     "bodyPart": "legs",
@@ -3507,21 +4144,45 @@
   {
     "id": "144",
     "name": "Dumbbell Step Ups",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral leg exercise that builds strength and stability while improving hip mobility and balance.",
+    "directions": [
+      "Hold dumbbells at sides",
+      "Stand facing step or platform",
+      "Step up with one foot",
+      "Drive through heel to stand",
+      "Step back down with control"
+    ],
+    "cues": [
+      "Drive through heel",
+      "Keep chest up",
+      "Control the movement",
+      "Maintain balance",
+      "Engage core throughout"
+    ],
     "image": "dumbbell-step-ups",
     "videoId": "0EHFCaIRKcA",
     "bodyPart": "legs",
-    "primaryGroup": "",
-    "secondaryGroups": []
+    "primaryGroup": "quadriceps",
+    "secondaryGroups": ["glutes", "hamstrings"]
   },
   {
     "id": "145",
     "name": "Dumbbell Upright Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A shoulder exercise that targets the deltoids and upper traps through a vertical pulling motion.",
+    "directions": [
+      "Stand with dumbbells in front",
+      "Pull weights up toward chin",
+      "Keep elbows above forearms",
+      "Lower with control",
+      "Maintain upright posture"
+    ],
+    "cues": [
+      "Lead with elbows",
+      "Keep weights close",
+      "Control the descent",
+      "Maintain posture",
+      "Engage shoulders"
+    ],
     "image": "dumbbell-upright-row",
     "videoId": "0EHFCaIRKcA",
     "bodyPart": "legs",
@@ -3531,21 +4192,45 @@
   {
     "id": "146",
     "name": "Shrugs",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting the upper trapezius muscles through an upward shoulder shrugging motion.",
+    "directions": [
+      "Stand holding weights at sides",
+      "Keep arms straight",
+      "Elevate shoulders straight up",
+      "Hold briefly at top",
+      "Lower with control"
+    ],
+    "cues": [
+      "Lift straight up",
+      "Don't roll shoulders",
+      "Control the movement",
+      "Keep neck neutral",
+      "Feel traps working"
+    ],
     "image": "shrugs",
     "videoId": "nwiOzUZtVEs",
     "bodyPart": "back",
-    "primaryGroup": "",
+    "primaryGroup": "trapezius",
     "secondaryGroups": []
   },
   {
     "id": "147",
     "name": "Meadows Row",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "A unilateral back exercise using a landmine or barbell that provides a unique angle for targeting the lats and upper back.",
+    "directions": [
+      "Stand parallel to barbell",
+      "Hinge at hips",
+      "Grasp end of barbell",
+      "Pull weight to hip",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep back straight",
+      "Lead with elbow",
+      "Control the negative",
+      "Squeeze at top",
+      "Maintain stable core"
+    ],
     "image": "meadows-row",
     "videoId": "LhH_6Wiwa_M",
     "bodyPart": "back",
@@ -3555,9 +4240,21 @@
   {
     "id": "148",
     "name": "Single Arm Preacher Curl",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An isolation exercise targeting one bicep at a time using the preacher bench for strict form.",
+    "directions": [
+      "Adjust preacher bench height",
+      "Rest arm on pad",
+      "Hold dumbbell with full extension",
+      "Curl weight up",
+      "Lower with control"
+    ],
+    "cues": [
+      "Keep upper arm on pad",
+      "Full range of motion",
+      "Control the negative",
+      "Squeeze at top",
+      "Keep wrist straight"
+    ],
     "image": "single-arm-preacher-curl",
     "videoId": "i79VyzL-TCw",
     "bodyPart": "arms",
@@ -3567,9 +4264,21 @@
   {
     "id": "149",
     "name": "Muscle Up",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "description": "An advanced calisthenics movement combining a powerful pull-up with a transition to a dip position.",
+    "directions": [
+      "Hang from pull-up bar",
+      "Pull explosively upward",
+      "Drive hips to bar",
+      "Transition over bar",
+      "Press to full extension"
+    ],
+    "cues": [
+      "Generate power from lats",
+      "Keep core tight",
+      "Drive elbows back",
+      "Quick transition",
+      "Control the movement"
+    ],
     "image": "muscle-up",
     "videoId": "yNzuHDk3DIk",
     "bodyPart": "back",
@@ -3578,10 +4287,22 @@
   },
   {
     "id": "150",
-    "name": "Torso rotation",
-    "description": "",
-    "directions": [],
-    "cues": [],
+    "name": "Torso Rotation",
+    "description": "A core exercise that targets the obliques and rotational strength using cable resistance.",
+    "directions": [
+      "Stand sideways to cable machine",
+      "Grasp handle at chest height",
+      "Keep arms extended",
+      "Rotate away from machine",
+      "Control return to start"
+    ],
+    "cues": [
+      "Pivot from waist",
+      "Keep arms straight",
+      "Control the movement",
+      "Maintain posture",
+      "Engage core throughout"
+    ],
     "image": "torso-rotation",
     "videoId": "A4kbzAd-Gj4",
     "bodyPart": "abs",
