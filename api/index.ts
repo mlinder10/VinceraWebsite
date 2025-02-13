@@ -21,6 +21,8 @@ api.get("/exercises", (_, res) =>
   res.sendFile(path.join(__dirname, "../exercises.json"))
 );
 
-app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
+app.listen(PORT, () =>
+  console.log(`Server running at http://localhost:${PORT}`)
+);
 
 module.exports = app;
