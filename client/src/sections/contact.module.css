@@ -1,0 +1,86 @@
+.section {
+  position: relative;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  translate: 0 160px;
+  font-size: 3rem;
+}
+
+.form {
+  position: absolute;
+  bottom: 0;
+  padding: 2em;
+  margin-left: 64px;
+  margin-bottom: 128px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1em;
+  width: 60%;
+  background-color: var(--background-secondary);
+  box-shadow: 0 0 5px var(--background-secondary);
+  border-radius: 0.5em;
+
+  p {
+    color: var(--primary);
+    font-weight: var(--semibold);
+  }
+
+  textarea {
+    height: 10em;
+    resize: none;
+  }
+}
+
+.send {
+  justify-self: flex-end;
+  background-color: var(--accent);
+  color: var(--primary);
+  font-size: 1rem;
+  padding-block: 0.5em;
+  width: 8em;
+  border-radius: 0.5em;
+  cursor: pointer;
+  border: none;
+}
+.send:hover,
+.send:active {
+  background-color: var(--accent-dark);
+  color: var(--primary);
+}
+
+.gradient {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 110%;
+  height: 400px;
+  background: linear-gradient(to top right, var(--accent-dark), var(--accent));
+  transform-origin: top right;
+  rotate: -10deg;
+  box-shadow: 0 0 55px var(--accent);
+}
+
+@media screen and (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+  .form {
+    font-size: 0.8rem;
+    grid-template-columns: 1fr;
+    width: 100%;
+    margin-left: 0;
+    /* margin-bottom: ; */
+    input,
+    textarea {
+      font-size: 0.8rem;
+    }
+  }
+  .gradient {
+    translate: 0 200px;
+  }
+}

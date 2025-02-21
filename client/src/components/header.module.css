@@ -1,0 +1,68 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+
+  nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2em;
+    background-color: var(--material);
+    border-radius: 0.5em;
+    border: thin solid var(--border);
+  }
+
+  h1 {
+    color: var(--primary);
+  }
+
+  a {
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: var(--semibold);
+    padding: 0.75em 1.5em;
+  }
+  a:hover,
+  a:focus {
+    background-color: var(--material);
+    border-radius: 0.5em;
+  }
+}
+
+.links {
+  display: flex;
+  gap: 0.5em;
+}
+
+.hamburger {
+  display: none;
+  margin-right: 2em;
+  color: var(--primary);
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+  .links {
+    flex-direction: column;
+    background-color: var(--background-secondary);
+    position: absolute;
+    top: 110%;
+    right: 0;
+    opacity: 0;
+    pointer-events: none;
+    translate: 0 -32px;
+    transition: 0.3s ease-in-out;
+  }
+  .links.show {
+    opacity: 1;
+    pointer-events: all;
+    translate: 0;
+  }
+}
