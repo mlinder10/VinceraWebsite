@@ -21,16 +21,16 @@
   gap: 1rem;
 
   h1 {
-    color: var(--primary-trans);
+    color: #fff8;
     font-size: 16rem;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   }
 
   h3 {
     position: relative;
-    color: var(--primary);
+    color: #fff;
     font-size: 2rem;
-    text-shadow: 0 0 5px var(--background);
+    text-shadow: 0 0 5px #151515;
     translate: 0 84px;
   }
 
@@ -53,20 +53,18 @@
   }
 
   .btn-features {
-    color: var(--primary);
     background-color: var(--background-secondary);
     border: 2px solid var(--background);
-    text-decoration: none;
   }
 
   .btn-download {
     background-color: var(--accent);
     border: 2px solid var(--accent-dark);
-    color: var(--primary);
   }
 
-  button,
   a {
+    color: var(--primary);
+    text-decoration: none;
     font-size: 1.1rem;
     width: 10rem;
     display: flex;
@@ -92,7 +90,6 @@
     .hero-btn-container {
       gap: 1em;
     }
-    button,
     a {
       font-size: 2vw;
       width: 30vw;

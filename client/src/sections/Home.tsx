@@ -10,10 +10,13 @@ export default function Home() {
         <h3>Conquer the Gym</h3>
         <h1>Vincera</h1>
         <div className={styles["hero-btn-container"]}>
-          <button className={styles["btn-download"]}>
+          <a
+            href="https://apps.apple.com/us/app/vincera/id6737439279"
+            className={styles["btn-download"]}
+          >
             <FaArrowDown />
             <span>Download</span>
-          </button>
+          </a>
           <a href="#features" className={styles["btn-features"]}>
             <FaList />
             <span>Features</span>
