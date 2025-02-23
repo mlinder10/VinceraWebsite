@@ -3706,7 +3706,7 @@
     "image": "hanging-leg-raises",
     "videoId": "2yfLANXm3_g",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3730,7 +3730,7 @@
     "image": "hanging-knee-raise",
     "videoId": "M3LbiHI9CeQ",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3754,7 +3754,7 @@
     "image": "candlestick",
     "videoId": "gIWSKvgdS2g",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3778,7 +3778,7 @@
     "image": "line-leg-raise",
     "videoId": "6BZ8WCm5I6g",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3802,7 +3802,7 @@
     "image": "russian-twist",
     "videoId": "bV8SH1iHIUA",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3826,7 +3826,7 @@
     "image": "crunch",
     "videoId": "LrHEwDz25qo",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -3994,7 +3994,7 @@
     "image": "cable-crunch",
     "videoId": "",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -4306,7 +4306,7 @@
     "image": "torso-rotation",
     "videoId": "A4kbzAd-Gj4",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": []
   },
   {
@@ -4412,7 +4412,7 @@
     "image": "reverse-crunch",
     "videoId": "",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
@@ -4440,7 +4440,7 @@
     "image": "plank",
     "videoId": "",
     "bodyPart": "abs",
-    "primaryGroup": "abs",
+    "primaryGroup": "abdominals",
     "secondaryGroups": ["shoulders", "back"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
