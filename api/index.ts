@@ -21,6 +21,11 @@ api.get("/exercises", (_, res) =>
   res.sendFile(path.join(__dirname, "../exercises.json"))
 );
 
+app.get("/r/:compressedString", (req, res) => {
+  const { compressedString } = req.params;
+  res.redirect("vincera://" + compressedString);
+});
+
 app.listen(PORT, () =>
   console.log(`Server running at http://localhost:${PORT}`)
 );
