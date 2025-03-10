@@ -21,9 +21,18 @@ api.get("/exercises", (_, res) =>
   res.sendFile(path.join(__dirname, "../exercises.json"))
 );
 
-app.get("/r/:compressedString", (req, res) => {
-  const { compressedString } = req.params;
-  res.redirect("vincera://" + compressedString);
+app.get("/r/:itemId", (req, res) => {
+  const { itemId } = req.params;
+  res.redirect("vincera://" + itemId);
+});
+
+app.post("/", (req, res) => {
+  const { split, workout, day } = req.body;
+  if (split !== undefined) {
+  } else if (workout !== undefined) {
+  } else if (day !== undefined) {
+  }
+  res.sendStatus(400);
 });
 
 app.listen(PORT, () =>

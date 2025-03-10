@@ -115,8 +115,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -143,8 +143,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -171,8 +171,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -202,8 +202,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -233,8 +233,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -264,8 +264,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -294,8 +294,8 @@
     "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -326,7 +326,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -357,7 +357,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -387,8 +387,8 @@
     "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -417,8 +417,8 @@
     "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -447,8 +447,8 @@
     "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -478,7 +478,7 @@
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -508,7 +508,7 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -538,7 +538,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -568,7 +568,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -628,7 +628,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 10,
-    "repsHigh": 20,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -657,8 +657,8 @@
     "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -687,8 +687,8 @@
     "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -717,8 +717,8 @@
     "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -748,7 +748,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -778,7 +778,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 20,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -809,7 +809,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -839,8 +839,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "barbell",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -870,8 +870,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -901,8 +901,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -932,8 +932,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 10,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -964,7 +964,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -995,7 +995,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1026,7 +1026,7 @@
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1057,7 +1057,7 @@
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1088,7 +1088,7 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1119,7 +1119,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1150,7 +1150,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1181,7 +1181,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1211,8 +1211,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1242,8 +1242,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1274,7 +1274,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1304,8 +1304,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1372,8 +1372,8 @@
     ],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 8,
-    "repsHigh": 12,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1409,8 +1409,8 @@
     ],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1447,7 +1447,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1478,7 +1478,7 @@
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 4,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1508,8 +1508,8 @@
     "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1540,7 +1540,7 @@
     "exerciseType": "compound",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1577,7 +1577,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1608,7 +1608,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1645,7 +1645,7 @@
     ],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 1,
+    "repsLow": 2,
     "repsHigh": 6,
     "unitsOne": "reps",
     "unitsTwo": "weight"
@@ -1684,7 +1684,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1721,8 +1721,8 @@
     ],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1759,8 +1759,8 @@
     ],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1798,7 +1798,7 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1828,8 +1828,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1859,8 +1859,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1926,8 +1926,8 @@
     "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 6,
-    "repsHigh": 12,
+    "repsLow": 4,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1957,8 +1957,8 @@
     "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 8,
-    "repsHigh": 12,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -1988,8 +1988,8 @@
     "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2019,8 +2019,8 @@
     "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 8,
-    "repsHigh": 15,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2050,8 +2050,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2081,8 +2081,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2112,8 +2112,8 @@
     "secondaryGroups": ["glutes"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2143,8 +2143,8 @@
     "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2175,7 +2175,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2237,7 +2237,7 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2268,7 +2268,7 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2299,7 +2299,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2330,7 +2330,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2360,8 +2360,8 @@
     "secondaryGroups": ["rhomboids", "trapezius", "triceps"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2391,8 +2391,8 @@
     "secondaryGroups": ["gastrocnemius"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2422,8 +2422,8 @@
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2453,8 +2453,8 @@
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2484,8 +2484,8 @@
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2515,8 +2515,8 @@
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2546,8 +2546,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 10,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2577,8 +2577,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2608,8 +2608,8 @@
     "secondaryGroups": ["trapezius", "front deltoids", "rear deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 10,
-    "repsHigh": 20,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2639,8 +2639,8 @@
     "secondaryGroups": ["trapezius", "front deltoids", "side deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2671,7 +2671,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2701,8 +2701,8 @@
     "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
-    "repsLow": 12,
-    "repsHigh": 25,
+    "repsLow": 10,
+    "repsHigh": 20,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2732,7 +2732,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2762,7 +2762,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2791,8 +2791,8 @@
     "secondaryGroups": ["side deltoids", "trapezius"],
     "exerciseType": "compound",
     "equipmentType": "machine",
-    "repsLow": 8,
-    "repsHigh": 12,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2822,7 +2822,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2852,7 +2852,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2882,7 +2882,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2912,7 +2912,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -2972,7 +2972,7 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3001,8 +3001,8 @@
     "secondaryGroups": ["hamstrings"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3032,7 +3032,7 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3062,7 +3062,7 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3092,7 +3092,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3122,7 +3122,7 @@
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 15,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3151,8 +3151,8 @@
     "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3182,7 +3182,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 12,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3211,8 +3211,8 @@
     "secondaryGroups": ["side deltoids", "trapezius"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
-    "repsLow": 8,
-    "repsHigh": 12,
+    "repsLow": 6,
+    "repsHigh": 10,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3241,8 +3241,8 @@
     "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3271,8 +3271,8 @@
     "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
-    "repsLow": 10,
-    "repsHigh": 15,
+    "repsLow": 8,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3302,7 +3302,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3362,7 +3362,7 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3392,7 +3392,7 @@
     "exerciseType": "compound",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3429,7 +3429,7 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 2,
-    "repsHigh": 8,
+    "repsHigh": 6,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3459,7 +3459,7 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3489,7 +3489,7 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15,
+    "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
@@ -3519,36 +3519,6 @@
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 10,
-    "repsHigh": 15,
-    "unitsOne": "reps",
-    "unitsTwo": "weight"
-  },
-  {
-    "id": "119",
-    "name": "Dumbbell Chest Press",
-    "description": "A compound chest exercise that allows for natural movement patterns and helps develop balanced strength.",
-    "directions": [
-      "Lie on bench with feet flat on floor",
-      "Hold dumbbells at chest level",
-      "Press weights straight up",
-      "Lower weights with control",
-      "Keep wrists straight throughout"
-    ],
-    "cues": [
-      "Keep back flat on bench",
-      "Drive through chest",
-      "Control the descent",
-      "Keep core tight",
-      "Maintain neutral wrists"
-    ],
-    "image": "dumbbell-chest-press",
-    "videoId": "TADDBww-DQs",
-    "bodyPart": "chest",
-    "primaryGroup": "pectorals",
-    "secondaryGroups": ["triceps", "front deltoids"],
-    "exerciseType": "compound",
-    "equipmentType": "dumbbell",
-    "repsLow": 8,
     "repsHigh": 12,
     "unitsOne": "reps",
     "unitsTwo": "weight"
@@ -3635,55 +3605,11 @@
     "videoId": "4wNJWdidWls",
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": ["glutes", "adductors"]
-  },
-  {
-    "id": "123",
-    "name": "Rope Overhead Extension",
-    "description": "A triceps isolation exercise using a rope attachment that allows for a natural range of motion and peak contraction.",
-    "directions": [
-      "Face away from cable machine",
-      "Hold rope overhead with elbows pointing up",
-      "Keep upper arms still",
-      "Extend arms to straighten elbows",
-      "Control return to start"
-    ],
-    "cues": [
-      "Keep elbows pointing up",
-      "Squeeze triceps at extension",
-      "Control the negative",
-      "Maintain upper arm position",
-      "Full range of motion"
-    ],
-    "image": "rope-overhead-extension",
-    "videoId": "NGoBja0Xipk",
-    "bodyPart": "arms",
-    "primaryGroup": "triceps",
-    "secondaryGroups": ["forearms"]
-  },
-  {
-    "id": "124",
-    "name": "Cable Rope Curls",
-    "description": "A biceps exercise using a rope attachment that allows for a natural supinating motion during the curl.",
-    "directions": [
-      "Stand facing cable machine",
-      "Grasp rope with palms facing each other",
-      "Keep elbows at sides",
-      "Curl rope toward shoulders",
-      "Lower with control"
-    ],
-    "cues": [
-      "Keep elbows still",
-      "Supinate wrists at top",
-      "Control the negative",
-      "Full range of motion",
-      "Squeeze biceps at peak"
-    ],
-    "image": "cable-rope-curls",
-    "videoId": "X6xYFTsp7No",
-    "bodyPart": "arms",
-    "primaryGroup": "biceps",
-    "secondaryGroups": ["forearms"]
+    "secondaryGroups": ["glutes", "adductors"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "125",
@@ -3707,7 +3633,11 @@
     "videoId": "2yfLANXm3_g",
     "bodyPart": "abs",
     "primaryGroup": "abdominals",
-    "secondaryGroups": []
+    "secondaryGroups": ["obliques"],
+    "repsLow": 6,
+    "repsHigh": 10,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "126",
@@ -3731,7 +3661,11 @@
     "videoId": "M3LbiHI9CeQ",
     "bodyPart": "abs",
     "primaryGroup": "abdominals",
-    "secondaryGroups": []
+    "secondaryGroups": ["obliques"],
+    "repsLow": 6,
+    "repsHigh": 10,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "127",
@@ -3755,31 +3689,11 @@
     "videoId": "gIWSKvgdS2g",
     "bodyPart": "abs",
     "primaryGroup": "abdominals",
-    "secondaryGroups": []
-  },
-  {
-    "id": "128",
-    "name": "Line Leg Raise",
-    "description": "A core exercise performed on the ground that targets the lower abs through a controlled leg raise movement.",
-    "directions": [
-      "Lie on back with legs straight",
-      "Press lower back into ground",
-      "Raise legs to 90 degrees",
-      "Lower legs with control",
-      "Keep legs straight throughout"
-    ],
-    "cues": [
-      "Keep lower back pressed down",
-      "Control the descent",
-      "Maintain straight legs",
-      "Engage core throughout",
-      "Breathe steadily"
-    ],
-    "image": "line-leg-raise",
-    "videoId": "6BZ8WCm5I6g",
-    "bodyPart": "abs",
-    "primaryGroup": "abdominals",
-    "secondaryGroups": []
+    "secondaryGroups": ["obliques"],
+    "repsLow": 6,
+    "repsHigh": 10,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "129",
@@ -3802,8 +3716,12 @@
     "image": "russian-twist",
     "videoId": "bV8SH1iHIUA",
     "bodyPart": "abs",
-    "primaryGroup": "abdominals",
-    "secondaryGroups": []
+    "primaryGroup": "obliques",
+    "secondaryGroups": ["abdominals"],
+    "repsLow": 10,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "130",
@@ -3827,55 +3745,11 @@
     "videoId": "LrHEwDz25qo",
     "bodyPart": "abs",
     "primaryGroup": "abdominals",
-    "secondaryGroups": []
-  },
-  {
-    "id": "131",
-    "name": "Cable Hip Abduction",
-    "description": "An isolation exercise targeting the outer hip muscles to improve hip stability and strength.",
-    "directions": [
-      "Stand sideways to cable machine",
-      "Attach ankle cuff to outside leg",
-      "Keep standing leg slightly bent",
-      "Lift working leg out to side",
-      "Control return to start"
-    ],
-    "cues": [
-      "Keep hips level",
-      "Don't lean sideways",
-      "Control the movement",
-      "Maintain upright posture",
-      "Feel outer hip working"
-    ],
-    "image": "cable-hip-abduction",
-    "videoId": "MXTRsOqn1jI",
-    "bodyPart": "",
-    "primaryGroup": "",
-    "secondaryGroups": []
-  },
-  {
-    "id": "132",
-    "name": "Cable Hip Adduction",
-    "description": "An isolation exercise targeting the inner thigh muscles to improve hip stability and strength.",
-    "directions": [
-      "Stand sideways to cable machine",
-      "Attach ankle cuff to inside leg",
-      "Keep standing leg slightly bent",
-      "Pull working leg across body",
-      "Control return to start"
-    ],
-    "cues": [
-      "Keep hips level",
-      "Don't lean sideways",
-      "Control the movement",
-      "Maintain upright posture",
-      "Feel inner thigh working"
-    ],
-    "image": "cable-hip-adduction",
-    "videoId": "UbQX4-JF97U",
-    "bodyPart": "",
-    "primaryGroup": "",
-    "secondaryGroups": []
+    "secondaryGroups": ["obliques"],
+    "repsLow": 10,
+    "repsHigh": 15,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "133",
@@ -3899,7 +3773,11 @@
     "videoId": "zDeGKWlLAsI",
     "bodyPart": "arms",
     "primaryGroup": "biceps",
-    "secondaryGroups": ["forearms"]
+    "secondaryGroups": ["forearms"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "134",
@@ -3923,7 +3801,11 @@
     "videoId": "YGmmgEYmdMM",
     "bodyPart": "back",
     "primaryGroup": "trapezius",
-    "secondaryGroups": []
+    "secondaryGroups": ["lats", "rhomboids", "biceps", "rear deltoids"],
+    "repsLow": 10,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight(+)"
   },
   {
     "id": "135",
@@ -3947,7 +3829,11 @@
     "videoId": "hIMsqrMV03A",
     "bodyPart": "arms",
     "primaryGroup": "forearms",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "136",
@@ -3971,7 +3857,11 @@
     "videoId": "ZdQttd8JvHI",
     "bodyPart": "arms",
     "primaryGroup": "forearms",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "137",
@@ -3995,31 +3885,11 @@
     "videoId": "",
     "bodyPart": "abs",
     "primaryGroup": "abdominals",
-    "secondaryGroups": []
-  },
-  {
-    "id": "138",
-    "name": "Cable Bar Raise",
-    "description": "A shoulder isolation exercise using a cable machine to target the lateral deltoids through a controlled raising motion.",
-    "directions": [
-      "Stand sideways to cable machine",
-      "Grasp bar with outside hand",
-      "Keep slight bend in elbow",
-      "Raise arm out to side",
-      "Lower with control"
-    ],
-    "cues": [
-      "Lead with elbow",
-      "Keep core tight",
-      "Control the movement",
-      "Maintain posture",
-      "Feel side deltoid working"
-    ],
-    "image": "cable-bar-raise",
-    "videoId": "85_vzLclKz0",
-    "bodyPart": "shoulders",
-    "primaryGroup": "side deltoids",
-    "secondaryGroups": []
+    "secondaryGroups": ["obliques"],
+    "repsLow": 10,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "139",
@@ -4043,7 +3913,11 @@
     "videoId": "ntBNw_ADtJo",
     "bodyPart": "arms",
     "primaryGroup": "triceps",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "140",
@@ -4067,7 +3941,11 @@
     "videoId": "UCCJ7zwXbRI",
     "bodyPart": "arms",
     "primaryGroup": "forearms",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "141",
@@ -4091,7 +3969,11 @@
     "videoId": "58X1dx2RFHk",
     "bodyPart": "arms",
     "primaryGroup": "forearms",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "142",
@@ -4115,7 +3997,11 @@
     "videoId": "3ib-u2LljXQ",
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": []
+    "secondaryGroups": ["glutes", "adductors", "abductors"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "143",
@@ -4138,8 +4024,12 @@
     "image": "lunge",
     "videoId": "Gf5x7A5HFxk",
     "bodyPart": "legs",
-    "primaryGroup": "quadriceps",
-    "secondaryGroups": []
+    "primaryGroup": "glutes",
+    "secondaryGroups": ["quadriceps", "hamstrings"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "144",
@@ -4163,7 +4053,11 @@
     "videoId": "0EHFCaIRKcA",
     "bodyPart": "legs",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": ["glutes", "hamstrings"]
+    "secondaryGroups": ["glutes", "hamstrings"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "145",
@@ -4185,9 +4079,13 @@
     ],
     "image": "dumbbell-upright-row",
     "videoId": "0EHFCaIRKcA",
-    "bodyPart": "legs",
-    "primaryGroup": "",
-    "secondaryGroups": []
+    "bodyPart": "shoulders",
+    "primaryGroup": "side deltoids",
+    "secondaryGroups": ["front deltoids", "rear deltoids"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "146",
@@ -4211,7 +4109,11 @@
     "videoId": "nwiOzUZtVEs",
     "bodyPart": "back",
     "primaryGroup": "trapezius",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "147",
@@ -4235,7 +4137,11 @@
     "videoId": "LhH_6Wiwa_M",
     "bodyPart": "back",
     "primaryGroup": "trapezius",
-    "secondaryGroups": []
+    "secondaryGroups": ["rhomboids", "lats", "side deltoids"],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "148",
@@ -4259,7 +4165,11 @@
     "videoId": "i79VyzL-TCw",
     "bodyPart": "arms",
     "primaryGroup": "biceps",
-    "secondaryGroups": []
+    "secondaryGroups": [],
+    "repsLow": 8,
+    "repsHigh": 12,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "149",
@@ -4282,32 +4192,12 @@
     "image": "muscle-up",
     "videoId": "yNzuHDk3DIk",
     "bodyPart": "back",
-    "primaryGroup": "trapezius",
-    "secondaryGroups": []
-  },
-  {
-    "id": "150",
-    "name": "Torso Rotation",
-    "description": "A core exercise that targets the obliques and rotational strength using cable resistance.",
-    "directions": [
-      "Stand sideways to cable machine",
-      "Grasp handle at chest height",
-      "Keep arms extended",
-      "Rotate away from machine",
-      "Control return to start"
-    ],
-    "cues": [
-      "Pivot from waist",
-      "Keep arms straight",
-      "Control the movement",
-      "Maintain posture",
-      "Engage core throughout"
-    ],
-    "image": "torso-rotation",
-    "videoId": "A4kbzAd-Gj4",
-    "bodyPart": "abs",
-    "primaryGroup": "abdominals",
-    "secondaryGroups": []
+    "primaryGroup": "lats",
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
+    "repsLow": 4,
+    "repsHigh": 10,
+    "unitsOne": "reps",
+    "unitsTwo": "weight"
   },
   {
     "id": "151",
@@ -4416,8 +4306,8 @@
     "secondaryGroups": [],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
-    "repsLow": 12,
-    "repsHigh": 20,
+    "repsLow": 10,
+    "repsHigh": 15,
     "unitsOne": "reps",
     "unitsTwo": "weight"
   },
